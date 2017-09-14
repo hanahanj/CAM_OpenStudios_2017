@@ -1,0 +1,11 @@
+Title: Bugs
+
+----
+
+Text: 
+
+- On an individual project page, the color picker (the paintbrush icon) doesn't work.
+
+- On an individual text page in the Library section, you can't select the featured image at the bottom.
+
+- The mark-up "* " does not create bullet points on the syllabus page.

@@ -1,0 +1,105 @@
+#meta-bar .inside {
+	background: none;
+}
+
+#meta-bar hr {
+	border: 0;
+	border-top: 1px solid #000;
+	opacity: 0.1;
+}
+
+nav { display: none !important; }
+
+h1 { font-size: 2em;  text-indent: 50px; font-weight: bold; text-transform:uppercase; }
+
+ul li {
+	list-style-type: circle !important;
+}
+
+ol li {
+	list-style-type: decimal;
+}
+
+.container.project .document {
+  width: 100%;
+  max-width: 100%;
+  overflow: auto;
+}
+
+.item {
+     width: 320px;
+  float: left;
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+
+.item2 {
+clear: left;
+    width: 50%;
+}
+
+.item img {
+  display: block;
+  width: 100%;
+  height: auto;  
+  margin: 10px 0px;
+  padding: 0px;
+
+  mix-blend-mode: multiply;
+  -webkit-filter: grayscale(100%) contrast(200%);
+  filter: grayscale(100%) contrast(200%);
+  opacity: 1;	
+}
+
+h1 h2 h3 h4 {
+  margin:0;
+  clear:left;
+  text-indent: 50px;
+  
+}
+
+h2{
+/*  text-decoration: underline;*/
+  font-size: 2em;
+  font-weight: bold;
+  text-indent: 50px;
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3{
+  font-size: 1em;
+  text-indent: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+h4{
+/*  text-decoration: underline;*/
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+h5{
+/*  text-decoration: underline;*/
+  font-size: .5em;
+  
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+p{
+  clear:left;
+width:50%;
+margin-top: 25px;
+padding-top:50px;
+}
+
+ul{
+  margin-left: 50px;
+  margin-bottom:50px;
+}

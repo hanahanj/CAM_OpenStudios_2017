@@ -1,0 +1,65 @@
+/* ----------------------------------------------------------------------------------------------------------
+Slider ----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------- */
+
+/*
+  This is just some starting CSS, you'll want to customize to your site
+*/
+.slider {
+	position: relative;
+}
+
+.frame {
+    /**
+     * (optional) wrapper width, specifies width of the slider frame.
+     */
+    width: 1000px;
+		margin:10px auto;
+    position: relative;
+    font-size: 0;
+    line-height: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    padding-top: 25px;
+}
+
+.slides {
+    display: inline-block;
+}
+
+.slides li {
+    position: relative;
+    display: inline-block;
+        margin-left: 25px;
+    margin-right: 25px;
+
+    /**
+     * (optional) if the content inside the slide element has a defined size.
+     */
+    width: 1000px;
+}
+
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    width:100px;
+    display: block;
+    cursor: pointer;
+}
+
+.next {
+    right: 0px;
+}
+
+.prev {
+    left: 0px;
+}
+
+.next svg, .prev svg {
+  /*  width: 250px;*/
+		height:auto;
+}
+
+.apath {
+	fill:#000;
+}
