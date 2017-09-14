@@ -1,23 +1,70 @@
 <?php snippet('header') ?>
 <?php snippet('menu') ?>
 
-<div id="mapContainer">
-		<div id="mapCanvas"></div>
-		<div id="infowindow"></div>
+	
+
+
+<script>function initMap() {
+
+
+  var styles = [
+  {
+   stylers: [ 
+   { "color": "#f5f5f5" },
+   { saturation: -100 }
+   ]
+ },{
+   featureType: "road", 
+   elementType: "geometry",
+   stylers: [
+   { color: "#8ee5ee" },
+
+   { visibility: "simplified" }
+   ]
+ },
+
+ { "elementType": "labels",
+ "stylers": [
+ {
+   "visibility": "off"
+ }
+ ]
+},
+
+{
+  featureType: "water", 
+  elementType: "geometry",
+  stylers: [
+  { color: "#c9c9c9" },
+               // { lightness: 250 },
+               { visibility: "simplified" }
+               ]
+             },
+
+             ];
+
+
+
+    var map = new google.maps.Map(document.getElementById('mapCanvas'), {
+       zoom: 13,
+  center: new google.maps.LatLng(38.605, -90.3),
+  styles: styles,
+  mapTypeControl: true
+  
+    });
+}
+
+</script>
+<script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDieZ7uAY4DPdT3Z4fp4KtykHl6dWryYdw&callback=initMap">
+    </script>
+
+
+
+
+	<div id="mapContainer">
+		<div id="mapCanvas" ></div>
 	</div>
-
-
-
-	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-
-	<script type="text/javascript" src="js/infobox.js"></script>
-	<script src="http://code.jquery.com/jquery-latest.min.js"
-	type="text/javascript"></script>
-
- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyArMDlD7B4aYSwAYO-fbVirh_9XD13D1bg&callback=initMap"
-	async defer></script>
-	<script type="text/javascript" src="assets/js/index.js"></script>
-	<!-- 	<script type="text/javascript" src="assets/js/index2.js"></script> -->
-
+	
 
 <?php snippet('footer') ?>
