@@ -1,5 +1,4 @@
-
-$(document).ready(function(){
+function initMap() {
 
 
   var styles = [
@@ -227,22 +226,16 @@ var content = [
 
 ]
 
-function initMap() {
 
-  var map = new google.maps.Map(document.getElementById('mapCanvas'), {
-    zoom: 13,
-    center: new google.maps.LatLng(38.605, -90.3),
-    styles: styles,
-    mapTypeControl: true,
-    mapTypeControlOptions: {
-     mapTypeIds: [google.maps.MapTypeId.ROADMAP, google.maps.MapTypeId.SATELLITE],
-     style: google.maps.MapTypeControlStyle.DEFAULT,
-     position: google.maps.ControlPosition.TOP_RIGHT
-   }
- });
-}
+    var map = new google.maps.Map(document.getElementById('mapCanvas'), {
+       zoom: 13,
+  center: new google.maps.LatLng(38.605, -90.3),
+  styles: styles,
+  mapTypeControl: true
 
-var infowindow = new google.maps.InfoWindow({
+    });
+
+    var infowindow = new google.maps.InfoWindow({
   maxWidth:300
 
 }
@@ -265,7 +258,4 @@ for (i = 0; i < locations.length; i++) {
   })(marker, i));
 }
 
-
-  // }
-
-});
+}

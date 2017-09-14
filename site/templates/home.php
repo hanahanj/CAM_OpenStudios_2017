@@ -4,7 +4,7 @@
 	
 
 
-<script>function initMap() {
+<!-- <script>function initMap() {
 
 
   var styles = [
@@ -266,7 +266,8 @@ for (i = 0; i < locations.length; i++) {
 
 }
 
-</script>
+</script> -->
+<script type="text/javascript" src="assets/js/index2.js"></script>
 <script async defer
             src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDieZ7uAY4DPdT3Z4fp4KtykHl6dWryYdw&callback=initMap">
     </script>
