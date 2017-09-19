@@ -1,7 +1,8 @@
+function initMap() {
+
 var markerGroups = {
-    "parking": [],
-    "trail": [],
-    "shelter": []
+    "Saturday": [],
+    "Sunday": []
 };
 var customIcons = {
     shelter: {
@@ -92,3 +93,4 @@ function parseXml(str) {
 }
 
 var xmlStr = '<markers><marker name="Mattatuck Trail Parking 1" address="" lat="41.784969" lng="-73.319489" type="parking"/><marker name="Mattatuck Trail Parking 2" address="" lat="41.821751" lng="-73.296867" type="parking"/><marker name="Mattatuck Trail Parking 3" address="" lat="41.784969" lng="-73.319489" type="parking"/><marker name="Mohawk Trail Parking 1" address="" lat="41.818535" lng="-73.368477" type="parking"/><marker name="Mohawk Trail Parking 2" address="" lat="41.784969" lng="-73.319489" type="parking"/><marker name="Appalacian Trail Parking 1" address="" lat="41.731030" lng="-73.490692" type="parking"/><marker name="Appalacian Trail Parking 2" address="" lat="41.807705" lng="-73.391785" type="parking"/><marker name="Appalacian Trail PArking 3" address="" lat="41.731030" lng="-73.490692" type="parking"/><marker name="Dawley Pond Shelter" address="" lat="41.621277" lng="-71.815392" type="shelter"/><marker name="Pachaug Dry Resevoir Shelter" address="" lat="41.590752" lng="-71.881386" type="shelter"/></markers>';
+}

@@ -46,11 +46,11 @@ var locations = [
 ['Anabun Pottery', 38.607793, -90.209319, '0pageIsFoundHere.html'],
 ['Andy Leicht', 38.598918, -90.247756, '0pageIsFoundHere.html'],
 
-             // ['Blake Sanders', 38.633575, -90.200425, '0pageIsFoundHere.html'],
-             // ['Brandon Anschultz', 38.617371, -90.210680, '0pageIsFoundHere.html'],
-             // ['Brandon Barnes', 38.589101, -90.227202, '0pageIsFoundHere.html'],
-             // ['Bridget McDermott Flood & Michael Flood', 38.556266, -90.257799, '0pageIsFoundHere.html'],
-             // ['Cailin Metz', 38.633048, -90.201454, '0pageIsFoundHere.html'],
+             ['Blake Sanders', 38.633575, -90.200425, '0pageIsFoundHere.html'],
+             ['Brandon Anschultz', 38.617371, -90.210680, '0pageIsFoundHere.html'],
+             ['Brandon Barnes', 38.589101, -90.227202, '0pageIsFoundHere.html'],
+             ['Bridget McDermott Flood & Michael Flood', 38.556266, -90.257799, '0pageIsFoundHere.html'],
+             ['Cailin Metz', 38.633048, -90.201454, '0pageIsFoundHere.html'],
 
              // ['Cayce Zavaglia', 38.611740, -90.235909, '0pageIsFoundHere.html'],
              // ['Cecelia M. Davidson', 38.638298, -90.231810, '0pageIsFoundHere.html'],

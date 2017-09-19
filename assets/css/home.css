@@ -1,24 +1,6 @@
 body { overflow-y: scroll; }
 
-/* BOUNCER */
 
-#bouncer-container {
-  position: fixed;
-  top: 0;
-  /*top: 53px;*/
-  left: 0;
-  right: 0;
-  bottom: 0;
-  pointer-events: none;
-}
-
-#bouncer {
-  z-index:10;
-  position:absolute;
-  top:200px;
-  left:860px;
-  pointer-events: auto;
-}
 
   body{
     background-color: none;
