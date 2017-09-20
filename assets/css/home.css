@@ -33,6 +33,7 @@ body { overflow-y: scroll; }
       text-transform: uppercase;
       margin:0;
       display:inline;
+          min-height: 75px;
 
     }
 
