@@ -268,10 +268,12 @@ var locations_saturday= [
 
              var marker, i;
 
+
 // SUN Markers
 for (i = 0; i < locations_sunday.length; i++) {  
   marker = new google.maps.Marker({
     position: new google.maps.LatLng(locations_sunday[i][1], locations_sunday[i][2]),
+    icon: 'http://maps.google.com/mapfiles/ms/icons/ltblue-dot.png',
     map: map,
 
 });
@@ -290,6 +292,7 @@ for (i = 0; i < locations_sunday.length; i++) {
 for (i = 0; i < locations_saturday.length; i++) {  
   marker = new google.maps.Marker({
     position: new google.maps.LatLng(locations_saturday[i][1], locations_saturday[i][2]),
+    icon: 'http://maps.google.com/mapfiles/ms/icons/red-dot.png',
     map: map,
 
 });
