@@ -48,7 +48,7 @@ A cross section of the St Louis community with its diversity, artistic vibrancy 
 - Handicapped-accessible	
 
 
-#### (link: http://www.artistsfirststl.org text: Link 1), (link: http://facebook.com/ArtistsFirstSTL text: Link 2)
+#### (link: http://www.artistsfirststl.org text: artistsfirststl.org), (link: http://facebook.com/ArtistsFirstSTL text: facebook)
 
 
 ****
