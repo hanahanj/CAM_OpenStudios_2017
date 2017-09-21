@@ -10,6 +10,14 @@
 	<div id="mapContainer">
 		<div id="mapCanvas" ></div>
 	</div>
+
+  <div id="saturday">
+  <h1>Saturday</h1>
+  </div>
+  <div id="sunday">
+  <h1>Sunday</h1>
+    </div>
+
 	
 
 <?php snippet('footer') ?>

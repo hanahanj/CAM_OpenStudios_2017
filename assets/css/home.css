@@ -34,6 +34,7 @@ body { overflow-y: scroll; }
       margin:0;
       display:inline;
           min-height: 75px;
+          font-weight: bold;
 
     }
 
@@ -94,7 +95,8 @@ font-family:helvetica;
     ul{
       padding: 0;
       list-style: none;
-      text-align: right;
+      text-align: center;
+      width: 100%
     }
 
     ul li ul{

@@ -113,7 +113,7 @@ a {
   text-decoration: none;
   color: #FF2020;
   color: #000;
-  border-bottom: 1px dotted #000;
+ 
 
 }
 
@@ -126,6 +126,7 @@ ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
+      width: 100%;
 }
 
 ol {
@@ -278,7 +279,7 @@ a.button:hover {
 --------------------------------------------------------- */
 
 nav {    
-  text-align: left;
+  text-align: center;
   font-size: 30px;
     font-weight: bold;
     text-transform: uppercase;
@@ -290,7 +291,6 @@ nav {
   align-items: left;
   justify-content: left;
   position: fixed;
-  padding-left: 25px;
   z-index: 1000;
 }
 
@@ -316,12 +316,12 @@ nav a {
 
 
 nav li:hover a{
-  color:  #cc00ff;
+  color:  #D3D3D3;
 }
 
 nav li.current a,
 nav li.current:hover a{
-  color: #FF2020;
+  color: #D3D3D3;
   cursor: pointer;
 }
 
@@ -374,6 +374,26 @@ nav .info-link {
   margin-right: 50px;
 }
 
+   #saturday{
+     position: absolute;
+    top: 50%;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    color:  #fd7567;
+    font-weight:bold;
+   }
+
+     #sunday{
+     position: absolute;
+    top: 50%;
+    right: 0;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    color:    #66cccc;
+   }
+   
 
 
 
