@@ -118,7 +118,7 @@ a {
 }
 
 a:hover {
-  color:  #cc00ff;
+  color:  #d3d3d3;
   
 }
 
@@ -585,7 +585,56 @@ figure.large {
 .document h5,
 .document h6 {
   /*font-weight: bold;*/
+    margin:0;
+  clear:left;
+  text-indent: 50px;
 
+}
+
+
+.document h2{
+/*  text-decoration: underline;*/
+  font-size: 2em;
+  font-weight: bold;
+  text-indent: 50px;
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+.document h3{
+  font-size: 1em;
+  text-indent: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.document h4{
+/*  text-decoration: underline;*/
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+.document h5{
+/*  text-decoration: underline;*/
+  font-size: .5em;
+  
+  margin-top: 0;
+    margin-bottom: 0;
+}
+
+.document p{
+  clear:left;
+width:50%;
+margin-top: 25px;
+padding-top:50px;
+}
+
+.document ul{
+  margin-left: 50px;
+  margin-bottom:50px;
 }
 
 .document ul li {
