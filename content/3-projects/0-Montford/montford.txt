@@ -18,11 +18,8 @@ Text:
 ###**VIOLA TEXTILE STUDIO**
 ###2700 Accomac St
 ###St. Louis, MO 63104
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:montford)

@@ -17,11 +17,8 @@ Text:
 ####LeRoy Lottmann
 ###5380 Reber Pl
 ###St. Louis, MO 63139
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:lottman)

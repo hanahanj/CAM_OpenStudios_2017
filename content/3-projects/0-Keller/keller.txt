@@ -18,11 +18,8 @@ Text:
 ###**SOULARD FINE ARTS BUILDING**
 ###1007 Russell Blvd, #306
 ###St. Louis, MO 63104
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:keller)

@@ -17,11 +17,9 @@ Text:
 ####Vaughn Davis
 ###8535 Drury Ln
 ###St. Louis, MO 63147
+<br>
+###_Studio Open Saturday, October 7_
 
-****
-****
-
-###**Studio Open Saturday, October 7**
 
 
 (slider:davis)

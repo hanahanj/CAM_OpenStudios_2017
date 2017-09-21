@@ -18,11 +18,8 @@ Text:
 ###**INTERSECT ARTS CENTER**
 ###3636 Texas Ave
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:bernhardt)  
@@ -48,7 +45,7 @@ Sarah Bernhardt's multi-disciplinary work explores photography, alternative prin
 - Handicapped-accessible	
 
 
-#### (link: http://sarahbernhardtart.com text: Link 1), (link: http://intersectstl.org text: Link 2), (link: http://https://www.facebook.com/intersectstl text: Link 3) 
+#### (link: http://sarahbernhardtart.com text: sarahbernhardtart.com), (link: http://intersectstl.org text: ntersectstl.org), (link: http://https://www.facebook.com/intersectstl text: facebook) 
 
 
 ****

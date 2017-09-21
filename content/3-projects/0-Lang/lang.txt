@@ -16,11 +16,8 @@ Text:
 ####Martin Lang
 ###3500 Lemp Ave, Building 12, 2nd Floor
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:lang)

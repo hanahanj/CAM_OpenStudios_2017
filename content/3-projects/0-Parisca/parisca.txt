@@ -17,11 +17,8 @@ Text:
 ####Mariana Parisca
 ###S3518 Juniata St, Apt A
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:parisca)

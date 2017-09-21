@@ -17,11 +17,8 @@ Text:
 ####Film Base STL
 ###2653 Locust Ave
 ###St. Louis, MO 63103
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:film base stl)

@@ -17,11 +17,8 @@ Text:
 ####Sam Fentress
 ###7121 Forsyth Blvd
 ###St. Louis, MO 63105
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:fentress)

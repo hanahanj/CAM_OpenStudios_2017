@@ -17,11 +17,9 @@ Text:
 ####Brandon Anschultz
 ###1310 S 18th St
 ###St. Louis, MO 63104
+<br>
+###_Studio Open Sunday, October 8_
 
-****
-****
-
-###**Studio Open Sunday, October 8**
 
 
 (slider:anschultz)

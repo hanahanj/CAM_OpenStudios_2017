@@ -17,11 +17,8 @@ Text:
 ####Andy Leicht
 ###3827 Humphrey St
 ###St. Louis, MO 63116
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:leicht)

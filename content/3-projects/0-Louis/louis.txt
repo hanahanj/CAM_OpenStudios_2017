@@ -16,11 +16,8 @@ Text:
 ####Gregg Louis
 ###2900 Indiana Ave, Unit 1
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:louis)

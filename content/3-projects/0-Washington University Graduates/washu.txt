@@ -18,11 +18,8 @@ Text:
 ###**THE LEWIS CENTER**
 ###721 Kingsland Ave
 ###St. Louis, MO 63130
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:washu)

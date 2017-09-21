@@ -17,11 +17,8 @@ Text:
 
 ###2222 Chippewa St.
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:peng)

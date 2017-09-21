@@ -17,11 +17,8 @@ Text:
 ####Jacob Francois
 ###2215 Scott Ave
 ###St. Louis, MO 63103
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:francois)

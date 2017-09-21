@@ -17,11 +17,8 @@ Text:
 ####Soulard Art Gallery
 ###2028 S 12th St
 ###St. Louis, MO 63104
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:soulard art gallery)

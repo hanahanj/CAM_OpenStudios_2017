@@ -18,11 +18,8 @@ Text:
 ###**CRAFT ALLIANCE CENTER OF ART + DESIGN IN GRAND CENTER**
 ###501 N Grand
 ###St. Louis, MO 63103
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:paulsen)

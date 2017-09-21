@@ -18,11 +18,9 @@ Text:
 ###**METROPOLITAN ARTIST LOFTS**
 ###500 N Grand Blvd, #805
 ###St. Louis, MO 63103
+<br>
+###_Studio Open Sunday, October 8_
 
-****
-****
-
-###**Studio Open Sunday, October 8**
 
 
 (slider:davidson)
@@ -50,7 +48,7 @@ In the Serenity Series I attempt to bounce the light to the heavens, to seek cla
 - Will Include Work For Sale	
 
 
-#### (link: http://ceceliadavidson.com/ text: Link 1), (link: http://facebook.com/ceceliadavidsonartist/ text: Link 2)
+#### (link: http://ceceliadavidson.com/ text: ceceliadavidson.com), (link: http://facebook.com/ceceliadavidsonartist/ text: facebook)
 
 
 ****

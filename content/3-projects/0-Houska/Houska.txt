@@ -18,11 +18,8 @@ Text:
 ###**CHARLES HOUSKA STUDIO/GALLERY**
 ###4728 McPherson Ave
 ###St. Louis, MO 63108
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:houska)

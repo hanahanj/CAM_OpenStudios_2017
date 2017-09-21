@@ -17,11 +17,8 @@ Text:
 ####Pamela Devine
 ###2720 Sutton Ave
 ###Maplewood, MO 63143
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:devine)

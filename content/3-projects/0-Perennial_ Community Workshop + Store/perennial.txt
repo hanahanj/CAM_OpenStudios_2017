@@ -17,11 +17,8 @@ Text:
 ####Perennial Community Workshop + Store
 ###3762 S Broadway St
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:perennial)

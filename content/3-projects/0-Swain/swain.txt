@@ -18,11 +18,8 @@ Text:
 ###**RED WOLF ARTS**
 ###4709 Minnesota Ave
 ###St. Louis, MO 63111
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:swain)

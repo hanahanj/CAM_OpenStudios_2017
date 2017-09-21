@@ -18,11 +18,8 @@ Text:
 ###**SOULARD ART GALLERY**
 ###2028 S 12th St
 ###St. Louis, MO 63104
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:anabun pottery)
@@ -49,7 +46,7 @@ Ceramic, watercolor, oil, & wood artist, but primarily Ceramicist focusing on sg
 - Handicapped-accessible	
 
 
-#### (link: http://soulardartgallery.com text: Link 1) 
+#### (link: http://soulardartgallery.com text: soulardartgallery.com) 
 
 
 ****

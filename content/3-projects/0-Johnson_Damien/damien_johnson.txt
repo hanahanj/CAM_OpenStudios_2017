@@ -17,11 +17,8 @@ Text:
 ####Damien Johnson
 ###4017 Pennsylvania Ave
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:johnson)

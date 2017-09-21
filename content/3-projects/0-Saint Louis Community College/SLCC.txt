@@ -18,11 +18,8 @@ Text:
 ###**ART ANNEX - STLCC FOREST PARK**
 ###5435 Highland Park Dr
 ###St. Louis, MO 63110
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:stlcc)

@@ -18,11 +18,9 @@ Text:
 ###**CARLA DAWSON STUDIO**
 ###4814 Washington Ave, Suite 150
 ###St. Louis, MO 63108
+<br>
+###_Studio Open Saturday, October 7_
 
-****
-****
-
-###**Studio Open Saturday, October 7**
 
 
 (slider:dawson)
@@ -48,7 +46,7 @@ I love color and focus on that in every painting. I also like to experiment with
 - Handicapped-accessible	
 
 
-#### (link: http://carladawson.com text: Link 1)
+#### (link: http://carladawson.com text: carladawson.com)
 
 
 ****

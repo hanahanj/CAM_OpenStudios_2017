@@ -18,11 +18,8 @@ Text:
 ###**ARTICA**
 ###1321 Lewis St
 ###St. Louis, MO 63102
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:ingraham)

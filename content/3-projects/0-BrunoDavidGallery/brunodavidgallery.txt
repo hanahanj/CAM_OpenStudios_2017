@@ -17,11 +17,8 @@ Text:
 ####Bruno David Gallery
 ###7513 Forsyth Blvd
 ###Clayton, MO 63105
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:bruno david gallery)
@@ -47,7 +44,7 @@ Text:
 - Handicapped-accessible
 
 
-#### (link: http://brunodavidgallery.com/ text: Link 1), (link: http://goodartnews.com/ text: Link 2), (link: http://issuu.com/brunodavidgallery text: Link 3) 
+#### (link: http://brunodavidgallery.com/ text: brunodavidgallery.com), (link: http://goodartnews.com/ text: goodartnews.com), (link: http://issuu.com/brunodavidgallery text: issuu.com/brunodavidgallery) 
 
 
 ****

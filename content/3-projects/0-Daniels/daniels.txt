@@ -18,11 +18,9 @@ Text:
 ###**VIBRANT CORNER**
 ###800 Olive St, 8th Floor
 ###St. Louis, MO 63101
+<br>
+###_Studio Open Sunday, October 8_
 
-****
-****
-
-###**Studio Open Sunday, October 8**
 
 
 (slider:daniels)
@@ -46,7 +44,7 @@ Humans are social creatures, and are not used to being alone. I explore the line
 - Will Include Work For Sale	
 
 
-#### (link: http://Pronounced-Lole.com text: Link 1), (link: http://instagram.com/lol_daniels text: Link 2)
+#### (link: http://Pronounced-Lole.com text: Pronounced-Lole.com), (link: http://instagram.com/lol_daniels text: instagram)
 
 
 ****

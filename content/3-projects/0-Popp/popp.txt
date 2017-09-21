@@ -17,11 +17,8 @@ Text:
 ####Erica Popp
 ###3271 Roger Place
 ###St. Louis, MO 63116
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:popp)

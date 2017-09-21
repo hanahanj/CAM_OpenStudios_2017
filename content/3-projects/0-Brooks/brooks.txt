@@ -18,11 +18,8 @@ Text:
 ###**SOULARD ART GALLERY**
 ###2028 S 12th St
 ###St. Louis, MO 63104
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:brooks)
@@ -50,7 +47,7 @@ Artist Works involve a wide variety of subjects and media…from prints to paint
 - Handicapped-accessible	
 
 
-#### (link: http://soulardartgallery.wixsite.com/home text: Link 1)
+#### (link: http://soulardartgallery.wixsite.com/home text: soulardartgallery.com)
 
 
 ****

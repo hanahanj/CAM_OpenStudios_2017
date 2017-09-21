@@ -17,11 +17,8 @@ Text:
 ####Norleen Nosri
 ###**CRAFT ALLIANCE CENTER OF ART + DESIGN IN GRAND CENTER**
 ###500 N Grand Blvd
-###St. Louis, MO 63108
-****
-****
-
-###**Studio Open Sunday, October 8**
+###St. Louis, MO 63108<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:nosri)

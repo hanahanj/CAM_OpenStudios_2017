@@ -18,11 +18,8 @@ Text:
 ###**SOLE SURVIVOR MAPLEWOOD**
 ###7312 Manchester Rd
 ###Maplewood, MO 63143
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:rye)

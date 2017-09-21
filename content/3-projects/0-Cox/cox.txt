@@ -18,11 +18,9 @@ Text:
 ###**THE MILLITZER STUDIO & GALLERY**
 ###3103 Pestalozzi St
 ###St. Louis, MO 63118
+<br>
+###_Studio Open Sunday, October 8_
 
-****
-****
-
-###**Studio Open Sunday, October 8**
 
 
 (slider:cox)
@@ -48,7 +46,7 @@ My work forms an ongoing narrative that mythologizes the lives of the Border Cre
 - Will Include Work For Sale	
 
 
-#### (link: http://adriancoxart.com text: Link 1)
+#### (link: http://adriancoxart.com text: adriancoxart.com)
 
 
 ****

@@ -17,11 +17,9 @@ Text:
 ####Colorbridge Arts Collective
 ###5832 Macklind Ave
 ###St. Louis, MO 63109
+<br>
+###_Studio Open Saturday, October 7_
 
-****
-****
-
-###**Studio Open Saturday, October 7**
 
 
 (slider:colorbridge arts collective)
@@ -49,7 +47,7 @@ This exhibit and open house features the work of St Louis-based artist educators
 - Handicapped-accessible	
 
 
-#### (link: http://ColorbridgeArt.com text: Link 1)
+#### (link: http://ColorbridgeArt.com text: ColorbridgeArt.com)
 
 
 ****

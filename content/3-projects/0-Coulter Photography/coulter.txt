@@ -18,11 +18,9 @@ Text:
 ###**JULES UNIQUE STUDIOS**
 ###6823 Manchester Ave
 ###St. Louis, MO 63143
+<br>
+###_Studio Open Saturday, October 7_
 
-****
-****
-
-###**Studio Open Saturday, October 7**
 
 
 (slider:coulter)
@@ -41,9 +39,6 @@ Coulter Photography and Films is a Saint Louis based company which specializes i
 
 
 
-	
-
-#### (link: http://webaddress text: Link 1), (link: http://webaddress text: Link 2), (link: http://webaddress text: Link 3) 
 
 
 ****

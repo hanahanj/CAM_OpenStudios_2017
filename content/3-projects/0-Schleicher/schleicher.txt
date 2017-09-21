@@ -17,11 +17,8 @@ Text:
 ####Nick Schleicher
 ###3906 Hereford St
 ###St. Louis, MO 63109
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:schleicher)

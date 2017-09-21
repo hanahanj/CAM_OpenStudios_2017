@@ -18,11 +18,8 @@ Text:
 ###**SUNDAY JONES ART**
 ###2647 Locust St
 ###St. Louis, MO 63103
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:jones)

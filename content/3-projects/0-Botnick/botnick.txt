@@ -18,11 +18,8 @@ Text:
 ###**EMDASH STUDIO**
 ###4814 Washington Ave, Suite 240
 ###St. Louis, MO 63108
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:botnick)
@@ -47,7 +44,7 @@ My books combine letterpress printing, handmade papers, and binding, to make lim
 - Will Include Work For Sale	
 
 
-#### (link: http://kenbotnick.com text: Link 1)  
+#### (link: http://kenbotnick.com text: kenbotnick.com)  
 
 
 ****

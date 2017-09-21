@@ -18,11 +18,8 @@ Text:
 ###**THE LUMINARY**
 ###2701 Cherokee St
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:cassidy)

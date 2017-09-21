@@ -18,11 +18,8 @@ Text:
 ###**MOLASKY STUDIO**
 ###6403 Clemens Ave
 ###University City, MO 63130
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:molasky)

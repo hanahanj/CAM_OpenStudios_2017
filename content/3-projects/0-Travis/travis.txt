@@ -18,11 +18,8 @@ Text:
 ###**PHI ACADEMY OF ART**
 ###4210 Chippewa St
 ###St. Louis, MO, 63116
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:travis)

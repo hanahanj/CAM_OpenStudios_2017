@@ -17,11 +17,8 @@ Text:
 ####Tate Foley
 ###12465 Cape Cod Dr
 ###St. Louis, MO 63146
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:foley)

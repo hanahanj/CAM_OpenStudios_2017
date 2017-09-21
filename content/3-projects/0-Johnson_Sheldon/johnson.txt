@@ -18,11 +18,8 @@ Text:
 ###**GUILD**
 ###4814 Washington Blvd, #302
 ###St. Louis, MO 63108
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:sheldon johnson)

@@ -17,11 +17,8 @@ Text:
 ####Marlene Lewis
 ###4814 Washington Ave
 ###St. Louis, MO 63110
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:lewis)

@@ -18,11 +18,9 @@ Text:
 ###**CRAFT ALLIANCE CENTER OF ART + DESIGN IN GRAND CENTER**
 ###501 N Grand Blvd
 ###St. Louis, MO 63108
+<br>
+###_Studio Open Sunday, October 8_
 
-****
-****
-
-###**Studio Open Sunday, October 8**
 
 
 (slider:dematta)
@@ -48,7 +46,7 @@ My work seeks to highlight the intricacies of nature and foster an understanding
 - Handicapped-accessible	
 
 
-#### (link: http://www.demattadesigns.com/ text: Link 1)
+#### (link: http://www.demattadesigns.com/ text: demattadesigns.com)
 
 
 ****

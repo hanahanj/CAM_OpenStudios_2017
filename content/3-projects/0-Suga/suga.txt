@@ -18,11 +18,8 @@ Text:
 ###**CRAFT ALLIANCE GLASS STUDIO**
 ### 6640 Delmar Blvd
 ###University City, MO 63130
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:suga)

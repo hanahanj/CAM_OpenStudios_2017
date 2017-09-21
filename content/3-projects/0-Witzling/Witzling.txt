@@ -18,11 +18,8 @@ Text:
 ###**MARK WITZLING ART**
 ###1717 Pheasant Run Dr
 ###Maryland Heights, MO 63043
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:witzling)

@@ -18,11 +18,8 @@ Text:
 ###**CARONDELET POTTERY & THREE WOLVES WOODSHOP**
 ###6735 Alabama Ave
 ###St. Louis, MO 63111
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:flood)

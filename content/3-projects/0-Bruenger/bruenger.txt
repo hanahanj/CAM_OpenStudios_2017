@@ -18,11 +18,8 @@ Text:
 ###**BRUSH AND HAMMER STUDIO**
 ###2173 Big Bend Blvd
 ###St. Louis, MO 63117
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:bruenger)

@@ -16,11 +16,8 @@ Text:
 ####Jeff Kapfer
 ###1611 Locust St, #502
 ###St. Louis, MO 63103
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:kapfer)

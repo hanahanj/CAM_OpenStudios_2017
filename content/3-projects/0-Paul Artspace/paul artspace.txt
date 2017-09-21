@@ -17,11 +17,8 @@ Text:
 ####Paul Artspace
 ###14516 Sinks Rd
 ###St. Louis, MO 63034
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:paul artspace)

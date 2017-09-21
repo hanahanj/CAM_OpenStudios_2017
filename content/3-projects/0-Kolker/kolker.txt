@@ -18,11 +18,8 @@ Text:
 ###**INTERSECT ARTS CENTER**
 ###3636 Texas Ave
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:kolker)

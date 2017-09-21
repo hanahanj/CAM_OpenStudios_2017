@@ -17,11 +17,8 @@ Text:
 ####Joe Chesla
 ###510 N Compton Ave
 ###St. Louis, MO 63103
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:chesla)
@@ -48,7 +45,7 @@ Using aspects of order, repetition, stillness and evolution, I create works of u
 - Handicapped-accessible
 
 
-#### (link: http://joechesla.com text: Link 1), (link: http://facebook.com/joe.chesla text: Link 2), (link: http://instagram.com/joechesla/ text: Link 3) 
+#### (link: http://joechesla.com text: joechesla.com), (link: http://facebook.com/joe.chesla text: facebook), (link: http://instagram.com/joechesla/ text: instagram) 
 
 
 ****

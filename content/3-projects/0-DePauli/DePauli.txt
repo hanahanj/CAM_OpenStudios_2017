@@ -18,11 +18,9 @@ Text:
 ###**THE BRI-ZONE**
 ###5736 West Park Ave
 ###St. Louis, MO 63110
+<br>
+###_Studio Open Saturday, October 7_
 
-****
-****
-
-###**Studio Open Saturday, October 7**
 
 
 (slider:depauli)
@@ -49,7 +47,7 @@ Through a distinct and sharp wit, material economy and sensitivity, and a meticu
 - Is Participatory/Interactive	
 
 
-#### (link: http://briendepauli.com text: Link 1), (link: http://facebook.com/profile.php?id=100013272467358 text: Link 2), (link: http://instagram.com/briandepauli/ text: Link 3) 
+#### (link: http://briendepauli.com text: briendepauli.com), (link: http://facebook.com/profile.php?id=100013272467358 text: facebook), (link: http://instagram.com/briandepauli/ text: instagram) 
 
 
 ****

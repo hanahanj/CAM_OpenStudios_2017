@@ -17,11 +17,8 @@ Text:
 ####The Collab
 ###7421 S Broadway St
 ###St. Louis, MO 63111
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:the collab)

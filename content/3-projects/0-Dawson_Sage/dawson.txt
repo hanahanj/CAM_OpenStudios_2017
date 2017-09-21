@@ -17,11 +17,9 @@ Text:
 ###**CITY MUSEUM**
 ###701 N 15th St, 4th Floor
 ###St. Louis, MO 63103
+<br>
+###_Studio Open Sunday, October 8_
 
-****
-****
-
-###**Studio Open Sunday, October 8**
 
 
 (slider:dawson)
@@ -47,7 +45,7 @@ Sage is a Saint Louis-based artist, curator, and educator. Her work examines dwe
 - Handicapped-accessible	
 
 
-#### (link: http://www.SageDawson.com text: Link 1)
+#### (link: http://www.SageDawson.com text: SageDawson.com)
 
 
 

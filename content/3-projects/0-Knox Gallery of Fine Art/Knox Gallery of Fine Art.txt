@@ -17,11 +17,8 @@ Text:
 ####Knox Gallery of Fine Art
 ###2214 Big Bend Blvd
 ###Richmond Heights, MO 63117
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:knox gallery of fine art)

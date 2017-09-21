@@ -17,11 +17,9 @@ Text:
 ####Wyndi Antoinette DeSouza
 ###3517 Magnolia Ave, 1st Floor
 ###St. Louis, MO 63118
+<br>
+###_Studio Open Sunday, October 8_
 
-****
-****
-
-###**Studio Open Sunday, October 8**
 
 
 (slider:desouza)
@@ -50,7 +48,7 @@ The systems I create are translated into written rules and sent out into the wor
 - Will Include Work For Sale	
 
 
-#### (link: http://wyndidesouza.com text: Link 1)
+#### (link: http://wyndidesouza.com text: wyndidesouza.com)
 
 
 ****

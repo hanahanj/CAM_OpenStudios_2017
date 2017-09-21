@@ -17,11 +17,8 @@ Text:
 ####Samantha Hunerlach
 ###5736 West Park Ave
 ###St. Louis, MO 63110
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:hunerlach)

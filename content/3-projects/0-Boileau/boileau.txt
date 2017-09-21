@@ -17,11 +17,8 @@ Text:
 ####Nanette Boileau
 ###3163 S Grand, 2nd Floor
 ###St. Louis, MO 63118
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:boileau)
@@ -46,7 +43,7 @@ Nanette E. Boileau (Ph.D. in Education and Art-based research, Saint Louis Unive
 - Will Have Drinks	
 
 
-#### (link: http://vimeopro.com/user1850126/past-work-2000-2017 text: Link 1) (link: https://vimeopro.com/user1850126/past-work-2000-2017 text: Link 2)
+#### (link: http://vimeopro.com/user1850126/past-work-2000-2017 text: Vimeo) 
 
 
 ****

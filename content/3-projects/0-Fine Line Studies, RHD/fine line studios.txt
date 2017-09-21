@@ -17,11 +17,8 @@ Text:
 ####Fine Line Studios, RHD
 ###12153 Bridgeton Sq
 ###Bridgeton, MO 63044
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:fine line studios)

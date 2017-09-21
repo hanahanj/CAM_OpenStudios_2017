@@ -18,11 +18,9 @@ Text:
 ###**FOCAL POINT**
 ###2720 Sutton Blvd
 ###Maplewood, MO 63143
+<br>
+###_Studio Open Saturday, October 7_
 
-****
-****
-
-###**Studio Open Saturday, October 7**
 
 
 (slider:correll)
@@ -52,7 +50,7 @@ A majority of my work is based upon my own experiences and memories. This is the
 - Handicapped-accessible	
 
 
-#### (link: http://facebook.com/daniellecorrellart text: Link 1), (link: http://www.instagram.com/midnitesunltd text: Link 2), (link: http://facebook.com/correllphotography text: Link 3) 
+#### (link: http://facebook.com/daniellecorrellart text: facebook), (link: http://www.instagram.com/midnitesunltd text: instagram), (link: http://facebook.com/correllphotography text: facebook 2) 
 
 
 ****

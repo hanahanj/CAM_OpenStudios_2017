@@ -18,11 +18,8 @@ Text:
 ###**JULES UNIQUE STUDIOS**
 ###6823 Manchester Ave
 ###St. Louis, MO 63134
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:gutierrez)

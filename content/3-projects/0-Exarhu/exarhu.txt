@@ -18,11 +18,8 @@ Text:
 ###**STUDIo ESCARGOT**
 ###4814 Washington Blvd
 ###St. Louis, MO 63108
-
-****
-****
-
-###**Studio Open Saturday, October 7**
+<br>
+###_Studio Open Saturday, October 7_
 
 
 (slider:exarhu)

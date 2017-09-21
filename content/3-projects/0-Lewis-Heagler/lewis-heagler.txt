@@ -18,11 +18,8 @@ Text:
 ###**PHOTOGRAPHY BY ROBIN LEWIS-HEAGLER, LLC**
 ###2323 Locust St
 ###St. Louis, MO 63103
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:lewis-heagler)

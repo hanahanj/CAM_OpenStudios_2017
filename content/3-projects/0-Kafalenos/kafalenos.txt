@@ -18,11 +18,8 @@ Text:
 ###**CITY MUSEUM**
 ###701 N 15th St, #401E
 ###ST. Louis, MO 63103
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:kafalenos)

@@ -17,11 +17,8 @@ Text:
 ####Caitlin Metz
 ###1531 Washington Ave, Apt 4A
 ###St. Louis, MO 63103
-
-****
-****
-
-###**Studio Open Sunday, October 8**
+<br>
+###_Studio Open Sunday, October 8_
 
 
 (slider:metz)

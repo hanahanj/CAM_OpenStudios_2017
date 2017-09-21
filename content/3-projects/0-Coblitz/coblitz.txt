@@ -19,10 +19,8 @@ Text:
 ###911 Washington Ave, Suite 500
 ###St. Louis, MO 63101
 
-****
-****
-
-###**Studio Open Sunday, October 8 (10–4 PM)**
+<br>
+###_Studio Open Sunday, October 8 (10–4 PM)_
 
 
 (slider:coblitz)

@@ -17,11 +17,9 @@ Text:
 ###**BRUSH & HAMMER STUDIO**
 ###2173 Big Bend Blvd
 ###St. Louis, MO 63117
+<br>
+###_Studio Open Saturday, October 7_
 
-****
-****
-
-###**Studio Open Saturday, October 7**
 
 
 (slider:cooper)
@@ -56,7 +54,7 @@ The figures are painted life-sized to allow the viewer to relate his or her own 
 - Will Include Work For Sale	
 
 
-#### (link: http://nicolecooperartiStcom text: Link 1), (link: http://facebook.com/nicolecooperartist text: Link 2), (link: http://instagram.com/nicolecooperartist text: Link 3) 
+#### (link: http://nicolecooperartist.com text: nicolecooperartist.com), (link: http://facebook.com/nicolecooperartist text: facebook), (link: http://instagram.com/nicolecooperartist text: instagram) 
 
 
 ****
