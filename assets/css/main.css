@@ -279,7 +279,10 @@ a.button:hover {
 
 nav {    
   text-align: left;
-  background-color: white;
+  font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+  
   height: 80px;
   width: 100%;
   top:0;

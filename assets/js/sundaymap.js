@@ -427,9 +427,9 @@ var locations_saturday= [
 
              var map = new google.maps.Map(document.getElementById('mapCanvas'), {
                  zoom: 13,
-                 center: new google.maps.LatLng(38.605, -90.3),
+                 center: new google.maps.LatLng(38.605, -90.275),
                  styles: styles,
-                 mapTypeControl: true
+                 mapTypeControl: false
 
              });
 
