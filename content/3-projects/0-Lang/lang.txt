@@ -13,9 +13,7 @@ Color:
 
 Text: 
 
-
-
-###**LEMP BREWERY**
+####Martin Lang
 ###3500 Lemp Ave, Building 12, 2nd Floor
 ###St. Louis, MO 63118
 

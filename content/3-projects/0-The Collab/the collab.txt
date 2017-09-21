@@ -14,7 +14,7 @@ Color:
 Text: 
 
 
-
+####The Collab
 ###7421 S Broadway St
 ###St. Louis, MO 63111
 
@@ -35,7 +35,11 @@ Text:
 
 
 
-We are all about making things. COLLAB is a design studio committed to creating work that is innovative and unique. We love constraints because they inform our design decisions and shape our process. COLLAB’s design approach is local, digital, and collaborative, generating contemporary design at the intersection of material, function, and process. All of our work is the result of extensive experience as well continuing research and experimentation with materials and fabrication techniques.Each project is developed with a commitment to sustainability and reinvestment in our community by working closely with local artists, designers, and fabricators in the St Louis metropolitan area.COLLAB was founded in 2011 by Albie Mitchell.
+We are all about making things. COLLAB is a design studio committed to creating work that is innovative and unique. We love constraints because they inform our design decisions and shape our process. COLLAB’s design approach is local, digital, and collaborative, generating contemporary design at the intersection of material, function, and process. All of our work is the result of extensive experience as well continuing research and experimentation with materials and fabrication techniques.
+
+Each project is developed with a commitment to sustainability and reinvestment in our community by working closely with local artists, designers, and fabricators in the St Louis metropolitan area.
+
+COLLAB was founded in 2011 by Albie Mitchell.
 
 
 

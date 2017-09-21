@@ -14,7 +14,7 @@ Color:
 Text: 
 
 
-
+####Wyndi Antoinette DeSouza
 ###3517 Magnolia Ave, 1st Floor
 ###St. Louis, MO 63118
 
@@ -35,7 +35,9 @@ Text:
 
 
 
-My work is comprised of books, photography, installation, animation, sound and elements of participation that seeks to compact, rationalize, and translate histories, locations, and emotions into a systematic visual. By using an artistic algorithm that incorporates important dates and demographic measurements, I create systems to produces drawings. The drawings document individual life, events and points of intersection between individuals, families, strangers and the spaces they inhabit. The algorithm takes non-quantitative information and visually reduces them to minimal diagrams and maps. The image becomes an abstract data map that borrows from, as well as rejects, the principles of data visualization. The visualizing of such data is a means to reframe, connect, and analyze. The systems I create are translated into written rules and sent out into the world. The returned information, whether a photograph or drawing, becomes data that is sorted and indexed. The archiving of this information explores, examines and visually communicates my understanding of people and location. My work questions the conventional ideology of social data, as well as counters traditional means of representation and documentation by seeking to visualize the intangible and unquantifiable to better understand and acknowledge the importance and magnitude of every experience.
+My work is comprised of books, photography, installation, animation, sound and elements of participation that seeks to compact, rationalize, and translate histories, locations, and emotions into a systematic visual. By using an artistic algorithm that incorporates important dates and demographic measurements, I create systems to produces drawings. The drawings document individual life, events and points of intersection between individuals, families, strangers and the spaces they inhabit. The algorithm takes non-quantitative information and visually reduces them to minimal diagrams and maps. The image becomes an abstract data map that borrows from, as well as rejects, the principles of data visualization. The visualizing of such data is a means to reframe, connect, and analyze. 
+
+The systems I create are translated into written rules and sent out into the world. The returned information, whether a photograph or drawing, becomes data that is sorted and indexed. The archiving of this information explores, examines and visually communicates my understanding of people and location. My work questions the conventional ideology of social data, as well as counters traditional means of representation and documentation by seeking to visualize the intangible and unquantifiable to better understand and acknowledge the importance and magnitude of every experience.
 
 
 

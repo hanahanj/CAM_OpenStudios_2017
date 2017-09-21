@@ -14,7 +14,7 @@ Color:
 Text: 
 
 
-
+####Jessica Bayer
 ###**INTERSECT ARTS CENTER**
 ###3636 Texas Ave
 ###St. Louis, MO 63118
@@ -36,7 +36,9 @@ Text:
 
 
 
-I am a freelance graphic designer. I have collaborated with design firms and small businesses in the fields of exhibition, identity, print and web design. I am passionate about working with nonprofit organizations, small businesses and individuals that are working to better the world that we live in. I am also a fiber artist and ceramic artiSt I create functional home ware pieces.
+I am a freelance graphic designer. I have collaborated with design firms and small businesses in the fields of exhibition, identity, print and web design. I am passionate about working with nonprofit organizations, small businesses and individuals that are working to better the world that we live in. 
+
+I am also a fiber artist and ceramic artiSt I create functional home ware pieces.
 
 
 

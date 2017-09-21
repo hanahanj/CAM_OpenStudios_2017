@@ -14,7 +14,7 @@ Color:
 Text: 
 
 
-
+####Knox Gallery of Fine Art
 ###2214 Big Bend Blvd
 ###Richmond Heights, MO 63117
 

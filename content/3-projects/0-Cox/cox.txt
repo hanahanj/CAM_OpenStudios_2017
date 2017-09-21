@@ -14,7 +14,7 @@ Color:
 Text: 
 
 
-
+####Adrian Cox
 ###**THE MILLITZER STUDIO & GALLERY**
 ###3103 Pestalozzi St
 ###St. Louis, MO 63118

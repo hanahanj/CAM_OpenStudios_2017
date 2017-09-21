@@ -14,8 +14,8 @@ Color:
 Text: 
 
 
+####Artists First
 
-###**ARTISTS FIRST**
 ###7190 Manchester Rd
 ###Maplewood, MO 63143
 

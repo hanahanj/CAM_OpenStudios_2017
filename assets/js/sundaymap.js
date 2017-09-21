@@ -409,7 +409,7 @@ var locations_saturday= [
 
              ['<div id=content>'+'<a href="projects/Wuest"><h1>Sue Wuest</h1></p>'],
              ['<div id=content>'+'<a href="projects/Foley"><h1>Tate Foley</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Hopkins_Morrison"><h1>Theresa Hopkins / April Morrison</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Hopkins"><h1>Theresa Hopkins / April Morrison</h1></p>'],
              ['<div id=content>'+'<a href="projects/Burns"><h1>Timothy Michael Burns</h1></p>'],
              ['<div id=content>'+'<a href="projects/Suga"><h1>Yuko Suga</h1></p>'],
 

@@ -2,7 +2,7 @@ Title: Scott Allison
 
 ----
 
-Project-code: 
+Project-code: 001
 
 ----
 
@@ -15,14 +15,22 @@ Text:
 
 
 
+
+#### Scott Allison
+
 ###**METROPOLITAN ARTIST LOFTS**
 ###500 N Grand Blvd, #809
 ###St. Louis, MO 63103
+<br>
+###_Studio Open Sunday, October 8_
 
-****
-****
 
-###**Studio Open Sunday, October 8**
+
+
+
+
+
+
 
 
 (slider:allison)
