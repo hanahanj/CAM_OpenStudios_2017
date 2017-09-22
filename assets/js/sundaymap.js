@@ -41,24 +41,30 @@ function initMap() {
 
 // SUNDAY locations
 var locations_sunday = [
-['Adrian Cox', 38.603474, -90.232971],
-['Albert Yowshien Kuo', 38.589101, -90.227202],
-['Alice Gadel', 38.638540, -90.232284],
-['Anabun Pottery', 38.607793, -90.209319],
+['The Millitzer Studio & Gallery', 38.603474, -90.232971],
+
+['Intersect Arts Center', 38.589101, -90.227202],
+['Craft Alliance Center of Art + Design (Grand Center)', 38.638540, -90.232284],
+
+['Soulard Art Gallery', 38.607793, -90.209319],
+
 ['Andy Leicht', 38.598918, -90.247756],
 
-['Blake Sanders', 38.633575, -90.200425], 
+['City Museum', 38.633575, -90.200425], 
 ['Brandon Anschultz', 38.617371, -90.210680],
 ['Bridget McDermott Flood & Michael Flood', 38.556266, -90.257799],
 ['Cailin Metz', 38.633048, -90.201454],
 
-['Cayce Zavaglia', 38.611740, -90.235909],
-['Cecelia M. Davidson', 38.638298, -90.231810],
+['3409 Longfellow Blvd', 38.611740, -90.235909],
+
+['Metropolitan Artist Lofts', 38.638298, -90.231810],
 ['Conor Murphy', 38.594721, -90.237542],
 // ['Damia Smith', 38.638540, -90.232284], Craft Alice Gadel
 
 ['Damien Johnson', 38.582988, -90.235988],
-['David Coblitz', 38.631421, -90.192996],
+
+['T-REX', 38.631421, -90.192996],
+
 // ['Edo Rosenblith', 38.633575, -90.200425],
 // ['Elaine Unell ', 38.631421, -90.192996],
 // ['Emma Vidal', 38.603474, -90.232971],
@@ -66,13 +72,13 @@ var locations_sunday = [
 ['Erica Popp', 38.59868160000001,-90.2533881],
 ['Film Base STL', 38.634728, -90.215866],
 // ['Garrett Roberts', 38.607793, -90.209319],
-['GINJU-AN ', 38.631112, -90.199019],
+['Artica', 38.631112, -90.199019],
 ['Gregg Louis', 38.600391, -90.222389],
 
 ['Hannah Montford', 38.609411, -90.224579],
 ['Ingrum Studio', 38.650577, -90.262091],
 ['Jacob Francois', 38.625305,-90.214607199999991],
-['Jacob Stanley', 38.600775, -90.242878],
+['3163 S Grand Boulevard', 38.600775, -90.242878],
 ['Jeff Kapfer', 38.625280, -90.214468],
 
 // ['Jessica Bayer', 38.589101, -90.227202],
@@ -283,16 +289,16 @@ var content_sunday = [
 // Saturday locations
 var locations_saturday= [
 ['Allison L Norfleet Bruenger', 38.621003, -90.321318],
-['Amy Travis', 38.589379, -90.259234],
+['Phi Academy of Art', 38.589379, -90.259234],
 ['Ann Wimsatt', 38.647720, -90.255015],
 ['Anne Molasky', 38.659365, -90.303871],
 ['Annie Rye', 38.613072, -90.317632],
 
 ['Arny Nadler', 38.678928, -90.307658],
-['Art doll', 38.617724, -90.305782],
+['Jules Unique Studios', 38.617724, -90.305782],
 ['Artists First', 38.614399, -90.312905],
-['Barbara Holtz', 38.649891, -90.259954],
-['Brian  DePauli', 38.625655, -90.282949],
+['Pierce Arrow Building', 38.649891, -90.259954],
+['5736 West Park Avenue', 38.625655, -90.282949],
 
 // ['Bruce Wulff', 38.589379, -90.259234],
 ['Bruno David Gallery', 38.650086, -90.330819],
@@ -302,24 +308,24 @@ var locations_saturday= [
 
 ['Colorbridge Arts Collective', 38.578075, -90.285583],
 ['Cory Sever', 38.6405036,-90.23487840000001],
-['Danielle Correll', 38.611683, -90.319753],
+['Focal Point', 38.611683, -90.319753],
 ['David A. N. Jackson', 38.663533, -90.278767],
 ['Dexter Silvers', 38.628840, -90.252050],
 
 // ['Enola Lynn', 38.611683, -90.319753],
 ['Fine Line Studios, RHD', 38.749300, -90.426858],
-['Gena Brady', 38.60937029999999,-90.25017170000001],
+['4032 Botanical Ave', 38.60937029999999,-90.25017170000001],
 // ['Genevieve Esson', 38.611724, -90.319742],
 
 ['Gina Grafos Print Showcase', 38.634644, -90.251345],
-['Jen Everett', 38.658284, -90.309255],
+['The Lewis Center', 38.658284, -90.309255],
 // ['Julius Gutierrez', 38.617724, -90.305793],
 ['Justin Cissell', 38.589379, -90.259234],
 ['Kay Rye Leather Artisan', 38.613047, -90.317621],
 
 // ['Ken Botnick', 38.650069, -90.259975],
-['Krista Valdez', 38.588424, -90.346928],
-['Kevin Heard', 38.655957, -90.307439],
+['Webster University', 38.588424, -90.346928],
+['Craft Alliance Center of Art + Design (Delmar)', 38.655957, -90.307439],
 ['Knox Gallery of Fine Art', 38.620574, -90.321420],
 ['LeRoy Lottmann', 38.608107, -90.278481],
 
@@ -331,7 +337,7 @@ var locations_saturday= [
 
 // ['Mary Lou Ryan', 38.655857, -90.307339],
 ['The St Louis Artists Guild', 38.649850, -90.329524],
-['Mirka M Fetté', 38.627654, -90.274971],
+['STLCC Forest Park', 38.627654, -90.274971],
 // ['Nancy Exarhu', 38.650069, -90.259975],
 ['Nate Bonner, Bladesmith', 38.612780, -90.318293],
 
@@ -343,7 +349,7 @@ var locations_saturday= [
 
 // ['Patricia Clark', 38.588424, -90.346928],
 ['Phi Academy of Art', 38.589379, -90.259234],
-['Preston Page Photography', 38.641419, -90.236853],
+['3840 Washington Blvd', 38.641419, -90.236853],
 ['Saint Louis Story Stitchers Artists Collective', 38.655887, -90.299445],
 ['Sam Fentress', 38.648083, -90.319748],
 
@@ -359,7 +365,7 @@ var locations_saturday= [
 // ['Timothy Michael Burns', 38.627654, -90.274971],
 // ['Yuko Suga', 38.655757, -90.307439],
 
-['University of Missouri-St Louis (faculty studios)', 38.712122, -90.302745],
+['UMSL', 38.712122, -90.302745],
 // ['University of Missouri-St Louis (student studios)', 38.712122, -90.302745],
 ['Vaughn Davis', 38.714340, -90.246435],
 // ['Washington University Graduate Art Studios', 38.658284, -90.309255],
