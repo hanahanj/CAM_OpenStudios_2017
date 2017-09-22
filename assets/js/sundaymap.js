@@ -49,13 +49,11 @@ var locations_sunday = [
 
 ['Blake Sanders', 38.633575, -90.200425],
 ['Brandon Anschultz', 38.617371, -90.210680],
-['Brandon Barnes', 38.589101, -90.227202],
 ['Bridget McDermott Flood & Michael Flood', 38.556266, -90.257799],
 ['Cailin Metz', 38.633048, -90.201454],
 
 ['Cayce Zavaglia', 38.611740, -90.235909],
 ['Cecelia M. Davidson', 38.638298, -90.231810],
-['Collin Garrity', 38.585801, -90.225617],
 ['Conor Murphy', 38.594721, -90.237542],
 ['Damia Smith', 38.638540, -90.232284],
 
@@ -65,7 +63,7 @@ var locations_sunday = [
 ['Elaine Unell ', 38.631421, -90.192996],
 ['Emma Vidal', 38.603474, -90.232971],
 
-['Erica Popp', 38.589346, -90.227666],
+
 ['Film Base STL', 38.634728, -90.215866],
 ['Garrett Roberts', 38.607793, -90.209319],
 ['GINJU-AN ', 38.631112, -90.199019],
@@ -73,13 +71,12 @@ var locations_sunday = [
 
 ['Hannah Montford', 38.609411, -90.224579],
 ['Ingrum Studio', 38.650577, -90.262091],
-['Jacob Francois', 38.650576, -90.262091],
+['Jacob Francois', 38.625305,-90.214607199999991],
 ['Jacob Stanley', 38.600775, -90.242878],
 ['Jeff Kapfer', 38.625280, -90.214468],
 
 ['Jessica Bayer', 38.589101, -90.227202],
 ['Joe Chesla', 38.636645, -90.225135],
-['John Joseph Hunn', 38.584649, -90.234668],
 ['John Sarra', 38.611732, -90.235943],
 ['Karen Ann Jones', 38.634701, -90.215316],
 
@@ -90,7 +87,7 @@ var locations_sunday = [
 ['Leah deMatta', 38.638540, -90.232284],
 
 ['LeRoy Lottmann', 38.607793, -90.209319],
-['Lowell Daniels', 38.609411, -90.224579],
+['Lowell Daniels', 38.6282846,-90.19291249999998],
 ['Maggie Zografakis', 38.633575, -90.200425],
 ['Margaret Keller', 38.593804, -90.227849],
 ['Marina Peng', 38.638540, -90.232284],
@@ -144,14 +141,12 @@ var content_sunday = [
 
 ['<div id=content>'+'<a href="projects/Sanders"><h1>Blake<br>Sanders</h1></a>'],
 ['<div id=content>'+'<a href="projects/Anschultz"><h1>Brandon<br>Anschultz</h1></a>'],
-['<div id=content>'+'<a href="projects/Barnes"><h1>Brandon<br>Barnes</h1></a>'],
 ['<div id=content>'+'<a href="projects/Flood"><h1>Bridget McDermott Flood <br> & Michael Flood</h1></a>'],
 ['<div id=content>'+'<a href="projects/Metz"><h1>Cailin<br>Metz</h1></a>'],
 
 
 ['<div id=content>'+'<a href="projects/Zavaglia"><h1>Cayce<br>Zavaglia</h1></a>'],
 ['<div id=content>'+'<a href="projects/Davidson"><h1>Cecelia M.<br>Davidson</h1></a>'],
-['<div id=content>'+'<a href="projects/Garrity"><h1>Collin <br>Garrity</h1></a>'],
 ['<div id=content>'+'<a href="projects/Murphy"><h1>Conor <br>Murphy</h1></a>'],
 ['<div id=content>'+'<a href="projects/Smith"><h1>Damia <br>Smith</h1></a>'],
 
@@ -161,7 +156,7 @@ var content_sunday = [
 ['<div id=content>'+'<a href="projects/Unell"><h1>Elaine <br>Unell</h1></a>'],
 ['<div id=content>'+'<a href="projects/Vidal"><h1>Emma <br>Vidal</h1></a>'],
 
-['<div id=content>'+'<a href="projects/Popp"><h1>Erica <br>Popp</h1></a>'],
+
 ['<div id=content>'+'<a href="projects/Film_Base"><h1>Film Base <br>STL</h1></a>'],
 ['<div id=content>'+'<a href="projects/Roberts"><h1>Garrett <br>Roberts</h1></a>'],
 ['<div id=content>'+'<a href="projects/AN"><h1>GINJU-AN</h1></a>'],
@@ -175,7 +170,6 @@ var content_sunday = [
 
 ['<div id=content>'+'<a href="projects/Bayer"><h1>Jessica <br>Bayer</h1></a>'],
 ['<div id=content>'+'<a href="projects/Chesla"><h1>Joe <br>Chesla</h1></a>'],
-['<div id=content>'+'<a href="projects/Hunn"><h1>John <br>Joseph <br>Hunn</h1></a>'],
 ['<div id=content>'+'<a href="projects/Sarra"><h1>John <br>Sarra</h1></a>'],
 ['<div id=content>'+'<a href="projects/Jones"><h1>Karen <br>Ann <br>Jones</h1></a>'],
 
