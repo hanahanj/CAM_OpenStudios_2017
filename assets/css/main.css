@@ -394,6 +394,14 @@ nav .info-link {
     color:    #66cccc;
    }
    
+    #date{
+     position: absolute;
+    bottom: 0;
+    width:100%;
+    text-align: center;
+    
+    color:    black;
+   }
 
 
 
@@ -591,6 +599,9 @@ figure.large {
 
 }
 
+.document h1{
+  font-weight: bold;
+}
 
 .document h2{
 /*  text-decoration: underline;*/
@@ -604,8 +615,10 @@ figure.large {
 .document h3{
   font-size: 1em;
   text-indent: 50px;
+  font-weight:bold;
     margin-top: 0;
     margin-bottom: 0;
+    
 
 }
 
@@ -619,18 +632,24 @@ figure.large {
 
 .document h5{
 /*  text-decoration: underline;*/
-  font-size: .5em;
+  font-size: .75em;
   
   margin-top: 0;
-    margin-bottom: 0;
+  margin-bottom: 0;
+  text-indent:25px;
+}
+.document .about p{
+  padding-top: 0;
 }
 
 .document p{
   clear:left;
 width:50%;
 margin-top: 25px;
-padding-top:50px;
+padding-top:25px;
 }
+
+
 
 .document ul{
   margin-left: 50px;
@@ -995,6 +1014,7 @@ small {
     display: block;
     width: 100%;
     padding: 4px 0;
+    font-size: 14px;
   }
 
   nav li:hover {
@@ -1037,16 +1057,8 @@ small {
     padding-left: 0em;
   }
 
-  #greeting.document {
-    font-size: 24px;
-    line-height: 1.2em;
-    overflow: auto;
-  }
-
-  #greeting p{
-    max-width: 100%;
-    float: none;
-    margin-right: 0px;
+  #saturday #sunday #date h1{
+    font-size: 14px;
   }
 
 }

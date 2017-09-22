@@ -1,41 +1,29 @@
 function initMap() {
 
-    var markerGroups = {
-        "parking": [],
-        "trail": [],
-        "shelter": []
-    };
-    var customIcons = {
-        shelter: {
-            icon: 'http://backpackingconnecticut.com/images/shelter_picnic.png'
-        },
-        parking: {
-            icon: 'http://backpackingconnecticut.com/images/parking.png'
-        }
-    };
+
 
     var styles = [
     {
-     stylers: [ 
-     { "color": "#f5f5f5" },
-     { saturation: -100 }
-     ]
- },{
-     featureType: "road", 
-     elementType: "geometry",
-     stylers: [
-     { color: "#8ee5ee" },
+       stylers: [ 
+       { "color": "#f5f5f5" },
+       { saturation: -100 }
+       ]
+   },{
+       featureType: "road", 
+       elementType: "geometry",
+       stylers: [
+       { color: "#8ee5ee" },
 
-     { visibility: "simplified" }
-     ]
- },
+       { visibility: "simplified" }
+       ]
+   },
 
- { "elementType": "labels",
- "stylers": [
- {
-     "visibility": "off"
- }
- ]
+   { "elementType": "labels",
+   "stylers": [
+   {
+       "visibility": "off"
+   }
+   ]
 },
 
 {
@@ -346,49 +334,49 @@ var locations_saturday= [
              ['<div id=content>'+'<a href="projects/Holtz"><h1>Barbara Holtz</h1></p>'],
              ['<div id=content>'+'<a href="projects/DePauli"><h1>Brian  DePauli</h1></p>'],
 
-            ['<div id=content>'+'<a href="projects/Wulff"><h1>Bruce Wulff</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Wulff"><h1>Bruce Wulff</h1></p>'],
              ['<div id=content>'+'<a href="projects/David"><h1>Bruno David Gallery</h1></p>'],
              ['<div id=content>'+'<a href="projects/Dawson"><h1>Carla Dawson</h1></p>'],
              ['<div id=content>'+'<a href="projects/Houska"><h1>Charles Houska</h1></p>'],
              ['<div id=content>'+'<a href="projects/Lauren"><h1>Clarinda Lauren</h1></p>'],
 
-               ['<div id=content>'+'<a href="projects/Colorbridge"><h1>Colorbridge Arts Collective</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Colorbridge"><h1>Colorbridge Arts Collective</h1></p>'],
              ['<div id=content>'+'<a href="projects/Sever"><h1>Cory Sever</h1></p>'],
              ['<div id=content>'+'<a href="projects/Correll"><h1>Danielle Correll</h1></p>'],
              ['<div id=content>'+'<a href="projects/Jackson"><h1>David A. N. Jackson</h1></p>'],
              ['<div id=content>'+'<a href="projects/Silvers"><h1>Dexter Silvers</h1></p>'],
 
-               ['<div id=content>'+'<a href="projects/Lynn"><h1>Enola Lynn</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Lynn"><h1>Enola Lynn</h1></p>'],
              ['<div id=content>'+'<a href="projects/Popp"><h1>Erica Popp</h1></p>'],
              ['<div id=content>'+'<a href="projects/Fine_Line"><h1>Fine Line Studios, RHD</h1></p>'],
              ['<div id=content>'+'<a href="projects/Brady"><h1>Gena Brady</h1></p>'],
              ['<div id=content>'+'<a href="projects/Esson"><h1>Genevieve Esson</h1></p>'],
 
-                ['<div id=content>'+'<a href="projects/Grafos"><h1>Gina Grafos Print Showcase</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Grafos"><h1>Gina Grafos Print Showcase</h1></p>'],
              ['<div id=content>'+'<a href="projects/Everett"><h1>Jen Everett</h1></p>'],
              ['<div id=content>'+'<a href="projects/Gutierrez"><h1>Julius Gutierrez</h1></p>'],
              ['<div id=content>'+'<a href="projects/Cissell"><h1>Justin Cissell</h1></p>'],
              ['<div id=content>'+'<a href="projects/Rye"><h1>Kay Rye Leather Artisan</h1></p>'],
 
-                  ['<div id=content>'+'<a href="projects/Botnick"><h1>Ken Botnick</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Botnick"><h1>Ken Botnick</h1></p>'],
              ['<div id=content>'+'<a href="projects/Valdez"><h1>Krista Valdez</h1></p>'],
              ['<div id=content>'+'<a href="projects/Heard"><h1>Kevin Heard/h1></p>'],
              ['<div id=content>'+'<a href="projects/Knox"><h1>Knox Gallery of Fine Art</h1></p>'],
              ['<div id=content>'+'<a href="projects/Lottmann"><h1>LeRoy Lottmann</h1></p>'],
 
-                   ['<div id=content>'+'<a href="projects/Pandolfi"><h1>Marcia Pandolfi</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Pandolfi"><h1>Marcia Pandolfi</h1></p>'],
              ['<div id=content>'+'<a href="projects/Witzling"><h1>Mark Witzling</h1></p>'],
              ['<div id=content>'+'<a href="projects/Lewis"><h1>Marlene Lewis</h1></p>'],
              ['<div id=content>'+'<a href="projects/Garage"><h1>Garage Studios</h1></p>'],
              ['<div id=content>'+'<a href="projects/Goebel"><h1>Martin Goebel</h1></p>'],
 
-                     ['<div id=content>'+'<a href="projects/Ryan"><h1>Mary Lou Ryan</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Ryan"><h1>Mary Lou Ryan</h1></p>'],
              ['<div id=content>'+'<a href="projects/Guild"><h1>The St Louis Artists Guild</h1></p>'],
              ['<div id=content>'+'<a href="projects/Fetté"><h1>Mirka M Fetté</h1></p>'],
              ['<div id=content>'+'<a href="projects/Exarhu"><h1>Nancy Exarhu</h1></p>'],
              ['<div id=content>'+'<a href="projects/Bonner"><h1>Nate Bonner, Bladesmith</h1></p>'],
 
-              ['<div id=content>'+'<a href="projects/Coulter"><h1>Nicholas Coulter Photography</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Coulter"><h1>Nicholas Coulter Photography</h1></p>'],
              ['<div id=content>'+'<a href="projects/Schleicher"><h1>Nick Schleicher</h1></p>'],
              ['<div id=content>'+'<a href="projects/Cooper"><h1>Nicole Cooper</h1></p>'],
              ['<div id=content>'+'<a href="projects/Devine"><h1>Pamela Devine</h1></p>'],
@@ -401,7 +389,7 @@ var locations_saturday= [
              ['<div id=content>'+'<a href="projects/Fentress"><h1>Sam Fentress</h1></p>'],
 
 
-              ['<div id=content>'+'<a href="projects/Hunerlach"><h1>Samantha Hunerlach</h1></p>'],
+             ['<div id=content>'+'<a href="projects/Hunerlach"><h1>Samantha Hunerlach</h1></p>'],
              ['<div id=content>'+'<a href="projects/Marchewa"><h1>Sandra Marchewa</h1></p>'],
              ['<div id=content>'+'<a href="projects/Harford"><h1>Sarah Harford</h1></p>'],
              ['<div id=content>'+'<a href="projects/Johnson"><h1>Sheldon Johnson</h1></p>'],
@@ -426,12 +414,16 @@ var locations_saturday= [
 
 
              var map = new google.maps.Map(document.getElementById('mapCanvas'), {
-                 zoom: 13,
-                 center: new google.maps.LatLng(38.605, -90.275),
-                 styles: styles,
-                 mapTypeControl: false
+               zoom: 13,
+               center: new google.maps.LatLng(38.605, -90.275),
+               styles: styles,
+               zoomControl: true,
+            //    zoomControlOptions: {
+            //     position: google.maps.ControlPosition.RIGHT_CENTER
+            // },
+            mapTypeControl: false
 
-             });
+        });
 
              var infowindow = new google.maps.InfoWindow({
               maxWidth:300

@@ -6,70 +6,76 @@ Text:
 
 ## About Open Studios 2017
 
-
+<p class="about">
 More than 140 artist studios & art spaces are open to the public over the course of one weekend. Now in its twelfth year, Open Studios STL offers the chance to meet St. Louis’s artists, see the spaces where they work, and learn about their creative process. Explore on your own, take a bike tour, or join local curators and arts professionals on studio visits. Celebrate the local arts community at the Open Studios Kick-Off Party or during the Young Friends Studio Crawl. Studios and spaces are open Saturday and Sunday, October 7 and 8, 10:00 am–5:00 pm, with locations west of Grand Boulevard open on Saturday and locations east of Grand Boulevard open on Sunday. The Open Studios STL mobile website provides a complete list of participating artist and events as well as a searchable map. Printed maps are available at CAM.
+</p>
 
+<p class="about">
 Open Studios STL artists maintain working spaces in St. Louis City or County. CAM has also invited participation by galleries, alternative spaces, arts organizations, and related spaces that present artwork in the St. Louis area.
+</p>
 
-Open Studios STL is generously supported by
+#Open Studios STL is generously supported by:
+(image: stlpr.jpg )
 
-[logos] Washington University in St. Louis
-St. Louis Public Radio
+(image: samfox.png )
 
-Tours & Events
 
-Some events are still being updated, so please make sure to check back in closer to the event.
+####Tours & Events
+
+
 
 Studio Visits are free, but attendees are encouraged to pre-register for the limited space available.
+*Some events are still being updated, so please make sure to check back in closer to the event.
+<br>
+###Friday, October 6
 
-Friday, October 6
-
-Open Studios Kick-Off Pary/First Friday 
+**Open Studios Kick-Off Party/First Friday**
 5:00–9:00 pm
 Contemporary Art Museum St. Louis
-http://camstl.org/calendar/event/2017/10/06/first-fridayopen-studios-kick-off-party-/
+#####_http://camstl.org/calendar/event/2017/10/06/first-fridayopen-studios-kick-off-party-/_
+<br>
+###Saturday, October 7
 
-Saturday, October 7
-
-Self-guided tours
+**Self-Guided Tours**
 10:00 am–5:00 pm
 
-Big Shark Bicycle Company Bike Tour
+**Big Shark Bicycle Company Bike Tour**
 10:00 am–1:00 pm
-Bring your bike and helmet to CAM and join a bike brigade tour of St. Louis artists
+(_Bring your bike and helmet to CAM and join a bike brigade tour of St. Louis artists_)
 
-Guest Studio Visits
-Guest arts professionals will lead dialogue with selected artists, discussing their practice and artwork in their studio space. 
-
-
-10:00 am: Tamara H. Schenkenberg, Associate Curator, Pulitzer Arts Foundation & TBD
-11:00 am: Allison Unruh, Ph.D., Associate Curator, Mildred Lane Kemper Art Museum & Jen Everett
-1:00 pm: Meredith Malone, Mildred Lane Kemper Art Museum & TBD
-2:00 pm: Lisa Melandri, Executive Director, Contemporary Art Museum St. Louis & Vaughn Davis
-2:00–5:00 pm CAM Young Friends Studio Crawl
-$25 general, $20 CAM Young Friends-level members. Purchase tickets at openstudios-stl.org 
-Hop on the bus at CAM to visit the studios of several fascinating artists throughout the city in this combination bus tour and afternoon party with Misa Jefferis, Assistant Curator, Contemporary Art Museum St. Louis and Bailey Dolenc, Development Manager, CAM
-Become a Young Friend of CAM http://camstl.org/join-give/young-friends/
+**Guest Studio Visits**
+(_Guest arts professionals will lead dialogue with selected artists, discussing their practice and artwork in their studio space._)
 
 
-Sunday, October 8
+- 10:00 am: Tamara H. Schenkenberg, Associate Curator, Pulitzer Arts Foundation & TBD
+- 11:00 am: Allison Unruh, Ph.D., Associate Curator, Mildred Lane Kemper Art Museum & Jen Everett
+- 1:00 pm: Meredith Malone, Mildred Lane Kemper Art Museum & TBD
+- 2:00 pm: Lisa Melandri, Executive Director, Contemporary Art Museum St. Louis & Vaughn Davis
+- 2:00–5:00 pm CAM Young Friends Studio Crawl*
 
-Self-guided tours
+
+*Hop on the bus at CAM to visit the studios of several fascinating artists throughout the city in this combination bus tour and afternoon party with Misa Jefferis, Assistant Curator, Contemporary Art Museum St. Louis and Bailey Dolenc, Development Manager, CAM. Become a Young Friend of CAM http://camstl.org/join-give/young-friends/. $25 general, $20 CAM Young Friends-level members. Purchase tickets at openstudios-stl.org 
+<br>
+
+###Sunday, October 8
+
+**Self-Guided Tours**
 10:00 am–5:00 pm
 
-Big Shark Bicycle Company Bike Tour
+**Big Shark Bicycle Company Bike Tour**
 10:00 am–1:00 pm
-Bring your bike and helmet to CAM and join a bike brigade tour of St. Louis artists
+(_Bring your bike and helmet to CAM and join a bike brigade tour of St. Louis artists_)
+
+**Guest Studio Visits**
+(_Guest arts professionals will lead dialogue with selected artists, discussing their practice and artwork in their studio space._)
+
+- 10:00 am: Simon Kelly, Saint Louis Art Museum curator of modern and contemporary art & TBD
+- 11:00 am: Wassan Al-Khudhairi, Chief Curator, Contemporary Art Museum St. Louis & Marina Peng
+- 1:00 pm: Shannon Bailey, Chief Curator, World Chess Hall of Fame & TBD
+- 2:00 pm: Stefene Russell. Culture Editor, St. Louis magazine & WORK/PLAY
 
 
-Guest Studio Visits
-Guest arts professionals will lead dialogue with selected artists, discussing their practice and artwork in their studio space. 
 
 
-10:00 am: Simon Kelly, Saint Louis Art Museum curator of modern and contemporary art & TBD
-11:00 am: Wassan Al-Khudhairi, Chief Curator, Contemporary Art Museum St. Louis & Marina Peng
-1:00 pm: Shannon Bailey, Chief Curator, World Chess Hall of Fame & TBD
-2:00 pm: Stefene Russell. Culture Editor, St. Louis magazine & WORK/PLAY
-
-About Contemporary Art Museum St. Louis
+##About Contemporary Art Museum St. Louis
 The Contemporary Art Museum St. Louis (CAM) presents, supports, and celebrates the art of our time. It is the premier museum in St. Louis dedicated to contemporary art. Focused on a dynamic array of changing exhibitions, CAM provides a thought-provoking program that reflects and contributes to the global cultural landscape. Through the diverse perspectives offered in its exhibitions, public programs, and educational initiatives, CAM actively engages a range of audiences to challenge their perceptions. It is a site for discovery, a gathering place in which to experience and enjoy contemporary visual culture. CAM is located in the Grand Center Arts District.

@@ -6,8 +6,7 @@
 	<div class="document">
 		<?php echo $page->text()->kirbytext() ?>
 		<?php snippet('projects-list') ?>
-		CSS Typeface<br />
-		Exhibition Microsite
+		
 	</div>
 
 </div>
