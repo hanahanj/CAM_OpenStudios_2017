@@ -164,13 +164,13 @@ div.vertical {
 
 
 .gm-style-iw {
-width: 500px; 
+width: 750px; 
 min-height: 150px;
 }
 
 #content{
 	position:relative;
-	width:220px;
+	max-width:750px;
 
 }
 

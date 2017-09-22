@@ -63,7 +63,7 @@ var locations_sunday = [
 ['Elaine Unell ', 38.631421, -90.192996],
 ['Emma Vidal', 38.603474, -90.232971],
 
-
+['Erica Popp', 38.59868160000001,-90.2533881],
 ['Film Base STL', 38.634728, -90.215866],
 ['Garrett Roberts', 38.607793, -90.209319],
 ['GINJU-AN ', 38.631112, -90.199019],
@@ -156,7 +156,7 @@ var content_sunday = [
 ['<div id=content>'+'<a href="projects/Unell"><h1>Elaine <br>Unell</h1></a>'],
 ['<div id=content>'+'<a href="projects/Vidal"><h1>Emma <br>Vidal</h1></a>'],
 
-
+['<div id=content>'+'<a href="projects/Popp"><h1>Erica Popp</h1></p>'],
 ['<div id=content>'+'<a href="projects/Film_Base"><h1>Film Base <br>STL</h1></a>'],
 ['<div id=content>'+'<a href="projects/Roberts"><h1>Garrett <br>Roberts</h1></a>'],
 ['<div id=content>'+'<a href="projects/AN"><h1>GINJU-AN</h1></a>'],
@@ -237,9 +237,9 @@ var locations_saturday= [
 ['Barbara Holtz', 38.649891, -90.259954],
 ['Brian  DePauli', 38.625655, -90.282949],
 
-['Bruce Wulff', 38.589379, -90.259234],
+// ['Bruce Wulff', 38.589379, -90.259234],
 ['Bruno David Gallery', 38.650086, -90.330819],
-['Carla Dawson', 38.650069, -90.259975],
+// ['Carla Dawson', 38.650069, -90.259975],
 ['Charles Houska', 38.647901, -90.260276],
 ['Clarinda Lauren', 38.589379, -90.259234],
 
@@ -249,67 +249,66 @@ var locations_saturday= [
 ['David A. N. Jackson', 38.663533, -90.278767],
 ['Dexter Silvers', 38.628840, -90.252050],
 
-['Enola Lynn', 38.611683, -90.319753],
-['Erica Popp', 38.59868160000001,-90.2533881],
+// ['Enola Lynn', 38.611683, -90.319753],
 ['Fine Line Studios, RHD', 38.749300, -90.426858],
 ['Gena Brady', 38.60937029999999,-90.25017170000001],
-['Genevieve Esson', 38.611724, -90.319742],
+// ['Genevieve Esson', 38.611724, -90.319742],
 
 ['Gina Grafos Print Showcase', 38.634644, -90.251345],
 ['Jen Everett', 38.658284, -90.309255],
-['Julius Gutierrez', 38.617724, -90.305793],
+// ['Julius Gutierrez', 38.617724, -90.305793],
 ['Justin Cissell', 38.589379, -90.259234],
 ['Kay Rye Leather Artisan', 38.613047, -90.317621],
 
-['Ken Botnick', 38.650069, -90.259975],
+// ['Ken Botnick', 38.650069, -90.259975],
 ['Krista Valdez', 38.588424, -90.346928],
 ['Kevin Heard', 38.655957, -90.307439],
 ['Knox Gallery of Fine Art', 38.620574, -90.321420],
 ['LeRoy Lottmann', 38.608107, -90.278450],
 
-['Marcia Pandolfi', 38.600569, -90.245485],
+// ['Marcia Pandolfi', 38.600569, -90.245485],
 ['Mark Witzling', 38.710706, -90.461845],
-['Marlene Lewis', 38.650069, -90.259975],
+// ['Marlene Lewis', 38.650069, -90.259975],
 ['Garage Studios', 38.598754, -90.332356],
 ['Martin Goebel', 38.613064, -90.319967],
 
-['Mary Lou Ryan', 38.655957, -90.307439],
+// ['Mary Lou Ryan', 38.655857, -90.307339],
 ['The St Louis Artists Guild', 38.649850, -90.329524],
 ['Mirka M Fetté', 38.627654, -90.274971],
-['Nancy Exarhu', 38.650069, -90.259975],
+// ['Nancy Exarhu', 38.650069, -90.259975],
 ['Nate Bonner, Bladesmith', 38.612780, -90.318293],
 
-['Nicholas Coulter Photography', 38.617708, -90.305793],
+// ['Nicholas Coulter Photography', 38.617708, -90.305793],
 ['Nick Schleicher', 38.592245, -90.276261],
 ['Nicole Cooper', 38.621003, -90.321318],
-['Pamela Devine', 38.611733, -90.319742],
+// ['Pamela Devine', 38.611733, -90.319752],
 ['Paul Artspace', 38.822984, -90.272551],
 
-['Patricia Clark', 38.588424, -90.346928],
+// ['Patricia Clark', 38.588424, -90.346928],
 ['Phi Academy of Art', 38.589379, -90.259234],
-['Preston Page Photography', 38.641319, -90.236753],
+['Preston Page Photography', 38.641419, -90.236853],
 ['Saint Louis Story Stitchers Artists Collective', 38.655887, -90.299445],
 ['Sam Fentress', 38.648083, -90.319748],
 
-['Samantha Hunerlach', 38.625647, -90.282938],
-['Sandra Marchewa', 38.641285, -90.236719],
+// ['Samantha Hunerlach', 38.625647, -90.282938],
+// ['Sandra Marchewa', 38.641285, -90.236719],
 ['Sarah Harford', 38.589000, -90.292937],
-['Sheldon Johnson', 38.650069, -90.259975],
+// ['Sheldon Johnson', 38.650069, -90.259975],
 ['Stephanie Ellis Schlaifer', 38.678928, -90.307658],
 
-['Sue Wuest', 38.655957, -90.307439],
+// ['Sue Wuest', 38.655857, -90.307539],
 ['Tate Foley', 38.681673, -90.457882],
 ['Theresa Hopkins / April Morrison', 38.597684, -90.255815],
-['Timothy Michael Burns', 38.627654, -90.274971],
-['Yuko Suga', 38.655957, -90.307439],
+// ['Timothy Michael Burns', 38.627654, -90.274971],
+// ['Yuko Suga', 38.655757, -90.307439],
 
 ['University of Missouri-St Louis (faculty studios)', 38.712122, -90.302745],
-['University of Missouri-St Louis (student studios)', 38.712122, -90.302745],
+// ['University of Missouri-St Louis (student studios)', 38.712122, -90.302745],
 ['Vaughn Davis', 38.714340, -90.246435],
-['Washington University Graduate Art Studios', 38.658284, -90.309255],
-['Webster University', 38.588424, -90.346928],
+// ['Washington University Graduate Art Studios', 38.658284, -90.309255],
+// ['Webster University', 38.588424, -90.346928],
 
-['Saint Louis Community College Forest Park', 38.627654, -90.274971],
+// ['Saint Louis Community College Forest Park', 38.627654, -90.274971],
 
 
 ];
@@ -317,98 +316,138 @@ var locations_saturday= [
              // Saturday CONTENT
              var content_saturday = [
              ['<div id=content>'+'<a href="projects/Bruenger"><h1>Allison L Norfleet Bruenger</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Travis"><h1>Amy Travis</h1></p>'],
+             ['<div id=content>'+'<h3>Phi Academy of Art</h3>'+
+             '<a href="projects/Travis"><h1>Amy Travis</h1>'
+             +'<a href="projects/Lauren"><h1>Clarinda Lauren</h1>'
+             +'<a href="projects/Cissell"><h1>Justin Cissell</h1>'
+             +'<a href="projects/Phi"><h1>Phi Academy of Art</h1>'
+             +'<a href="projects/Wulff"><h1>Bruce Wulff</h1>'],
              ['<div id=content>'+'<a href="projects/Wimsatt"><h1>Ann Wimsatt</h1></p>'],
              ['<div id=content>'+'<a href="projects/Molasky"><h1>Anne Molasky</h1></p>'],
              ['<div id=content>'+'<a href="projects/Rye"><h1>Annie Rye</h1></p>'],
 
              ['<div id=content>'+'<a href="projects/Nadler"><h1>Arny Nadler</h1></p>'],
-             ['<div id=content>'+'<a href="projects/doll"><h1>Art Doll</h1></p>'],
+             ['<div id=content>'+'<h3>Jules Unique Studios</h3>'
+             +'<a href="projects/doll"><h1>Art Doll</h1>'
+             +'<a href="projects/Coulter"><h1>Nicholas Coulter Photography</h1>'
+             +'<a href="projects/Gutierrez"><h1>Julius Gutierrez</h1>'],
              ['<div id=content>'+'<a href="projects/First"><h1>Artists First</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Holtz"><h1>Barbara Holtz</h1></p>'],
-             ['<div id=content>'+'<a href="projects/DePauli"><h1>Brian  DePauli</h1></p>'],
+             ['<div id=content>'+'<h3>Pierce Arrow Building</h3>'
+             +'<a href="projects/Holtz"><h1>Barbara Holtz</h1>'
+             +'<a href="projects/Dawson"><h1>Carla Dawson</h1>'
+             +'<a href="projects/Botnick"><h1>Ken Botnick</h1>'
+             +'<a href="projects/Lewis"><h1>Marlene Lewis</h1>'
+             +'<a href="projects/Exarhu"><h1>Nancy Exarhu</h1>'
+             +'<a href="projects/Johnson"><h1>Sheldon Johnson</h1>'],
 
-             ['<div id=content>'+'<a href="projects/Wulff"><h1>Bruce Wulff</h1></p>'],
+             ['<div id=content>'+'<h3>5736 West Park Avenue</h3>'
+             +'<a href="projects/DePauli"><h1>Brian DePauli</h1></p>'
+              +'<a href="projects/Hunerlach"><h1>Samantha Hunerlach</h1></p>'],
+
+             // ['<div id=content>'+'<a href="projects/Wulff"><h1>Bruce Wulff</h1></p>'],
              ['<div id=content>'+'<a href="projects/David"><h1>Bruno David Gallery</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Dawson"><h1>Carla Dawson</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Dawson"><h1>Carla Dawson</h1></p>'],
              ['<div id=content>'+'<a href="projects/Houska"><h1>Charles Houska</h1></p>'],
              ['<div id=content>'+'<a href="projects/Lauren"><h1>Clarinda Lauren</h1></p>'],
 
              ['<div id=content>'+'<a href="projects/Colorbridge"><h1>Colorbridge Arts Collective</h1></p>'],
              ['<div id=content>'+'<a href="projects/Sever"><h1>Cory Sever</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Correll"><h1>Danielle Correll</h1></p>'],
+             ['<div id=content>'+'<h3>Focal Point</h3>'
+             +'<a href="projects/Correll"><h1>Danielle Correll</h1>'
+             +'<a href="projects/Devine"><h1>Pamela Devine</h1>'
+             +'<a href="projects/Esson"><h1>Genevieve Esson</h1>'
+             +'<a href="projects/Lynn"><h1>Enola <br>Lynn</h1>'
+             +'<a href="projects/Peterson"><h1>Lori Peterson</h1>'
+             ],
              ['<div id=content>'+'<a href="projects/Jackson"><h1>David A. N. Jackson</h1></p>'],
              ['<div id=content>'+'<a href="projects/Silvers"><h1>Dexter Silvers</h1></p>'],
 
-             ['<div id=content>'+'<a href="projects/Lynn"><h1>Enola Lynn</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Popp"><h1>Erica Popp</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Lynn"><h1>Enola Lynn</h1></p>'],
              ['<div id=content>'+'<a href="projects/Fine_Line"><h1>Fine Line Studios, RHD</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Brady"><h1>Gena Brady</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Esson"><h1>Genevieve Esson</h1></p>'],
+
+             ['<div id=content>'+'<h3>The Lewis Center</h3>'
+             +'<a href="projects/Brady"><h1>Gena Brady</h1>'
+             +'<a href="projects/Pandolfi"><h1>Marcia Pandolfi</h1>'
+             ],
+             // ['<div id=content>'+'<a href="projects/Esson"><h1>Genevieve Esson</h1></p>'],
 
              ['<div id=content>'+'<a href="projects/Grafos"><h1>Gina Grafos Print Showcase</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Everett"><h1>Jen Everett</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Gutierrez"><h1>Julius Gutierrez</h1></p>'],
+             ['<div id=content>'+'<h3>The Lewis Center</h3>'+'<a href="projects/Everett"><h1>Jen Everett</h1></p>'+'<a href="projects/mccoy"><h1>Kevin McCoy (WORK/PLAY)</h1>'+'<a href="projects/wustl"><h1>Washington University Graduates</h1>'],
+             // ['<div id=content>'+'<a href="projects/Gutierrez"><h1>Julius Gutierrez</h1></p>'],
              ['<div id=content>'+'<a href="projects/Cissell"><h1>Justin Cissell</h1></p>'],
              ['<div id=content>'+'<a href="projects/Rye"><h1>Kay Rye Leather Artisan</h1></p>'],
 
-             ['<div id=content>'+'<a href="projects/Botnick"><h1>Ken Botnick</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Valdez"><h1>Krista Valdez</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Heard"><h1>Kevin Heard/h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Botnick"><h1>Ken Botnick</h1></p>'],
+             
+             ['<div id=content>'+'<h3>Webster University</h3>'
+             +'<a href="projects/Valdez"><h1>Krista Valdez</h1>'
+             +'<a href="projects/Clark"><h1>Patricia Clark</h1>'
+             +'<a href="projects/Webster"><h1>Webster University</h1>'],
+
+             ['<div id=content>'+'<h3>Craft Alliance Center of Art + Design (Delmar)</h3>'
+             +'<a href="projects/Heard"><h1>Kevin Heard</h1>'
+             +'<a href="projects/Saga"><h1>Yuko Saga</h1>'
+             +'<a href="projects/Ryan"><h1>Mary Lou Ryan</h1>'
+             +'<a href="projects/Wuest"><h1>Sue Wuest</h1>'],
              ['<div id=content>'+'<a href="projects/Knox"><h1>Knox Gallery of Fine Art</h1></p>'],
              ['<div id=content>'+'<a href="projects/Lottmann"><h1>LeRoy Lottmann</h1></p>'],
 
-             ['<div id=content>'+'<a href="projects/Pandolfi"><h1>Marcia Pandolfi</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Pandolfi"><h1>Marcia Pandolfi</h1></p>'],
              ['<div id=content>'+'<a href="projects/Witzling"><h1>Mark Witzling</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Lewis"><h1>Marlene Lewis</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Lewis"><h1>Marlene Lewis</h1></p>'],
              ['<div id=content>'+'<a href="projects/Garage"><h1>Garage Studios</h1></p>'],
              ['<div id=content>'+'<a href="projects/Goebel"><h1>Martin Goebel</h1></p>'],
 
-             ['<div id=content>'+'<a href="projects/Ryan"><h1>Mary Lou Ryan</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Ryan"><h1>Mary Lou Ryan</h1></p>'],
              ['<div id=content>'+'<a href="projects/Guild"><h1>The St Louis Artists Guild</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Fetté"><h1>Mirka M Fetté</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Exarhu"><h1>Nancy Exarhu</h1></p>'],
+             ['<div id=content>'+'<h3>STLCC Forest Park</h3>'
+             +'<a href="projects/Fetté"><h1>Mirka M Fetté</h1></p>'
+             +'<a href="projects/Burns"><h1>Timothy Michael Burns</h1></p>'
+             +'<a href="projects/STLCC"><h1>STLCC Forest Park</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Exarhu"><h1>Nancy Exarhu</h1></p>'],
              ['<div id=content>'+'<a href="projects/Bonner"><h1>Nate Bonner, Bladesmith</h1></p>'],
 
-             ['<div id=content>'+'<a href="projects/Coulter"><h1>Nicholas Coulter Photography</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Coulter"><h1>Nicholas Coulter Photography</h1></p>'],
              ['<div id=content>'+'<a href="projects/Schleicher"><h1>Nick Schleicher</h1></p>'],
              ['<div id=content>'+'<a href="projects/Cooper"><h1>Nicole Cooper</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Devine"><h1>Pamela Devine</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Devine"><h1>Pamela Devine</h1></p>'],
              ['<div id=content>'+'<a href="projects/Paul"><h1>Paul Artspace</h1></p>'],
 
-             ['<div id=content>'+'<a href="projects/Clark"><h1>Patricia Clark</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Clark"><h1>Patricia Clark</h1></p>'],
              ['<div id=content>'+'<a href="projects/Phi"><h1>Phi Academy of Art</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Page"><h1>Preston Page Photography</h1></p>'],
+             ['<div id=content>'+'<h3>3840 Washington Blvd</h3>'+'<a href="projects/Page"><h1>Preston Page Photography</h1>'+'<a href="projects/Marchewa"><h1>Sandra Marchewa</h1></p>'],
              ['<div id=content>'+'<a href="projects/Stitchers"><h1>Saint Louis Story Stitchers Artists Collective</h1></p>'],
              ['<div id=content>'+'<a href="projects/Fentress"><h1>Sam Fentress</h1></p>'],
 
 
-             ['<div id=content>'+'<a href="projects/Hunerlach"><h1>Samantha Hunerlach</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Marchewa"><h1>Sandra Marchewa</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Hunerlach"><h1>Samantha Hunerlach</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Marchewa"><h1>Sandra Marchewa</h1></p>'],
              ['<div id=content>'+'<a href="projects/Harford"><h1>Sarah Harford</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Johnson"><h1>Sheldon Johnson</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Johnson"><h1>Sheldon Johnson</h1></p>'],
              ['<div id=content>'+'<a href="projects/Schlaifer"><h1>Stephanie Ellis Schlaifer</h1></p>'],
 
-             ['<div id=content>'+'<a href="projects/Wuest"><h1>Sue Wuest</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Wuest"><h1>Sue Wuest</h1></p>'],
              ['<div id=content>'+'<a href="projects/Foley"><h1>Tate Foley</h1></p>'],
              ['<div id=content>'+'<a href="projects/Hopkins"><h1>Theresa Hopkins / April Morrison</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Burns"><h1>Timothy Michael Burns</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Suga"><h1>Yuko Suga</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Burns"><h1>Timothy Michael Burns</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Suga"><h1>Yuko Suga</h1></p>'],
 
-             ['<div id=content>'+'<a href="projects/umsl_fac"><h1>University of Missouri-St Louis (faculty studios)</h1></p>'],
-             ['<div id=content>'+'<a href="projects/umsl_stu"><h1>University of Missouri-St Louis (student studios)</h1></p>'],
+             ['<div id=content>'+'<h3>University of Missouri-St Loui</h3>'
+             +'<a href="projects/umsl_fac"><h1>Faculty'
+             +'<a href="projects/umsl_stu"><h1>Students'],
+             // ['<div id=content>'+'<a href="projects/umsl_stu"><h1>University of Missouri-St Louis (student studios)</h1></p>'],
              ['<div id=content>'+'<a href="projects/Davis"><h1>Vaughn Davis</h1></p>'],
-             ['<div id=content>'+'<a href="projects/wustl"><h1>Washington University Graduate Art Studios</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Webster"><h1>Webster University</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/wustl"><h1>Washington University Graduate Art Studios</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/Webster"><h1>Webster University</h1></p>'],
 
-             ['<div id=content>'+'<a href="projects/sl_comm"><h1>Saint Louis Community College Forest Park</h1></p>'],
+             // ['<div id=content>'+'<a href="projects/sl_comm"><h1>Saint Louis Community College Forest Park</h1></p>'],
 
              ]
 
 
 
              var map = new google.maps.Map(document.getElementById('mapCanvas'), {
-               zoom: 13,
+               zoom: 11,
                center: new google.maps.LatLng(38.605, -90.275),
                styles: styles,
                zoomControl: true,
