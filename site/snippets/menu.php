@@ -1,7 +1,7 @@
 <nav id="top">
 
   <ul>
-    <li><a class="home-link" href="map/index.html">Map</a></li>
+    <li><a class="home-link" href="index.html">Map</a></li>
     <?php foreach($pages->visible() as $p): ?>
     <li <?php e($p->isOpen(), ' class="current"') ?>>
       <?php if($p == 'class'): ?>
