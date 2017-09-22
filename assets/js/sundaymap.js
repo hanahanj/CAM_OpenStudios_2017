@@ -47,7 +47,7 @@ var locations_sunday = [
 ['Anabun Pottery', 38.607793, -90.209319],
 ['Andy Leicht', 38.598918, -90.247756],
 
-['Blake Sanders', 38.633575, -90.200425],
+['Blake Sanders', 38.633575, -90.200425], 
 ['Brandon Anschultz', 38.617371, -90.210680],
 ['Bridget McDermott Flood & Michael Flood', 38.556266, -90.257799],
 ['Cailin Metz', 38.633048, -90.201454],
@@ -55,17 +55,17 @@ var locations_sunday = [
 ['Cayce Zavaglia', 38.611740, -90.235909],
 ['Cecelia M. Davidson', 38.638298, -90.231810],
 ['Conor Murphy', 38.594721, -90.237542],
-['Damia Smith', 38.638540, -90.232284],
+// ['Damia Smith', 38.638540, -90.232284], Craft Alice Gadel
 
 ['Damien Johnson', 38.582988, -90.235988],
 ['David Coblitz', 38.631421, -90.192996],
-['Edo Rosenblith', 38.633575, -90.200425],
-['Elaine Unell ', 38.631421, -90.192996],
-['Emma Vidal', 38.603474, -90.232971],
+// ['Edo Rosenblith', 38.633575, -90.200425],
+// ['Elaine Unell ', 38.631421, -90.192996],
+// ['Emma Vidal', 38.603474, -90.232971],
 
 ['Erica Popp', 38.59868160000001,-90.2533881],
 ['Film Base STL', 38.634728, -90.215866],
-['Garrett Roberts', 38.607793, -90.209319],
+// ['Garrett Roberts', 38.607793, -90.209319],
 ['GINJU-AN ', 38.631112, -90.199019],
 ['Gregg Louis', 38.600391, -90.222389],
 
@@ -75,55 +75,55 @@ var locations_sunday = [
 ['Jacob Stanley', 38.600775, -90.242878],
 ['Jeff Kapfer', 38.625280, -90.214468],
 
-['Jessica Bayer', 38.589101, -90.227202],
+// ['Jessica Bayer', 38.589101, -90.227202],
 ['Joe Chesla', 38.636645, -90.225135],
-['John Sarra', 38.611732, -90.235943],
+// ['John Sarra', 38.611732, -90.235943],
 ['Karen Ann Jones', 38.634701, -90.215316],
 
-['Kathy Gomric', 38.607793, -90.209319],
+// ['Kathy Gomric', 38.607793, -90.209319],
 ['Kelsey Viola Wiskirchen', 38.609411, -90.224579],
-['Ken Wood', 38.633575, -90.200425],
+// ['Ken Wood', 38.633575, -90.200425], CITY MUSEUM, Blake Sanders
 ['Kristin Cassidy', 38.593804, -90.227849],
-['Leah deMatta', 38.638540, -90.232284],
+// ['Leah deMatta', 38.638540, -90.232284],
 
-['LeRoy Lottmann', 38.607793, -90.209319],
+['LeRoy Lottmann', 38.608107, -90.278481],
 ['Lowell Daniels', 38.6282846,-90.19291249999998],
-['Maggie Zografakis', 38.633575, -90.200425],
+// ['Maggie Zografakis', 38.588886, -90.227545],
 ['Margaret Keller', 38.593804, -90.227849],
-['Marina Peng', 38.638540, -90.232284],
+['Marina Peng', 38.585768, -90.225642],
 
 ['Mark Swain', 38.570884, -90.239701],
-['Maxine Joie du Maine', 38.638298, -90.231810],
-['Melody Evans', 38.638540, -90.232284],
-['Michael Martinez', 38.638298, -90.231810],
-['Michael Parrett', 38.638540, -90.232284],
+// ['Maxine Joie du Maine', 38.638298, -90.231810],
+// ['Melody Evans', 38.638540, -90.232284],
+// ['Michael Martinez', 38.638298, -90.231810],
+// ['Michael Parrett', 38.638540, -90.232284],
 
-['Nanette Boileau', 38.600754, -90.242863],
-['Norleen Nosri', 38.638540, -90.232284],
-['Olivia Lahs-Gonzales', 38.600754, -90.242863],
-['Pat Toenjes', 38.607794, -90.209320],
-['Patrick L. Bellmann', 38.607793, -90.209319],
+// ['Nanette Boileau', 38.600754, -90.242863],
+// ['Norleen Nosri', 38.638540, -90.232284],
+// ['Olivia Lahs-Gonzales', 38.600754, -90.242863],
+// ['Pat Toenjes', 38.607794, -90.209320],
+// ['Patrick L. Bellmann', 38.607793, -90.209319],
 
-['Paul Kafalenos', 38.633575, -90.200425],
+// ['Paul Kafalenos', 38.633575, -90.200425],CITY MUSEUM, Blake Sanders
 ['Perennial: Community Workshop + Store', 38.586302, -90.226035],
-['Rachel Youn', 38.633666, -90.199920],
-['Rich Brooks', 38.607793, -90.209319],
+// ['Rachel Youn', 38.633666, -90.199920], CITY MUSEUM, Blake Sanders
+// ['Rich Brooks', 38.607793, -90.209319],
 ['Robert Michelmann', 38.607256, -90.206833],
 
 ['Robin Lewis-Heagler', 38.634321, -90.213246],
-['Ruth Kolker', 38.589101, -90.227202],
-['Ruth Reese', 38.638540, -90.232284],
-['Sage Dawson', 38.633575, -90.200425],
-['Sandra Fischetti', 38.638298, -90.231810],
+// ['Ruth Kolker', 38.589101, -90.227202],
+// ['Ruth Reese', 38.638540, -90.232284],
+// ['Sage Dawson', 38.633575, -90.200425], CITY MUSEUM, Blake Sanders
+// ['Sandra Fischetti', 38.638298, -90.231810],
 
-['Sarah Bernhardt', 38.589101, -90.227202],
-['Sarah Paulsen', 38.638540, -90.232284],
-['Scott Allison', 38.638298, -90.231810],
-['Soulard Art Gallery', 38.607793, -90.209319],
-['Steve Ingraham', 38.631112, -90.199019],
+// ['Sarah Bernhardt', 38.589101, -90.227202],
+// ['Sarah Paulsen', 38.638540, -90.232284],
+// ['Scott Allison', 38.638298, -90.231810],
+// ['Soulard Art Gallery', 38.607793, -90.209319],
+// ['Steve Ingraham', 38.631112, -90.199019],
 
 ['The Collab', 38.548527, -90.257013],
-['Tiffany J. Sutton', 38.638298, -90.231810],
+// ['Tiffany J. Sutton', 38.638298, -90.231810],
 ['WORK/PLAY', 38.593802, -90.227840],
 ['Wyndi Antoinette DeSouza', 38.606312],
 ];
@@ -132,91 +132,148 @@ var locations_sunday = [
 
 // SUNDAY CONTENT
 var content_sunday = [
-['<div id=content>'+'<a href="projects/cox"><h1>Adrian<br>Cox</h1></a>'],
-['<div id=content>'+'<a href="projects/Kuo"><h1>Albert<br> Yowshien <br>Kuo</h1></a>'],
-['<div id=content>'+'<a href="projects/Gadel"><h1>Alice <br>Gadel</h1></a>'],
-['<div id=content>'+'<a href="projects/Pottery"><h1>Anabun <br>Pottery</h1></a>'],
+['<div id=content>'+'<h3>The Millitzer Studio & Gallery</h3>'
++'<a href="projects/cox"><h1>Adrian<br>Cox</h1></a>'
++'<a href="projects/Vidal"><h1>Emma<br> Vidal</h1></a>'
+],
+
+
+['<div id=content>'+'<h3>Intersect Arts Center</h3>'
++'<a href="projects/Kuo"><h1>Albert<br> Yowshien <br>Kuo</h1></a>'
++'<a href="projects/Bayer"><h1>Jessica Bayer</h1></a>'
++'<a href="projects/Zografakis"><h1>Maggie Zografakis</h1></a>'
++'<a href="projects/Kolker"><h1>Ruth Kolker</h1></a>'
++'<a href="projects/Bernhardt"><h1>Sarah Bernhardt</h1></a>'],
+
+['<div id=content>'+'<h3>Craft Alliance Center of Art + Design (Grand Center)</h3>'
++'<a href="projects/Gadel"><h1>Alice <br>Gadel</h1></a>'
++'<a href="projects/Smith"><h1>Damia <br>Smith</h1></a>'
++'<a href="projects/deMatta"><h1>Leah <br>deMatta</h1></a>'
++'<a href="projects/Evans"><h1>Melody <br>Evans</h1></a>'
++'<a href="projects/Parrett"><h1>Michael <br>Parrett</h1></a>'
++'<a href="projects/Nosri"><h1>Norleen <br>Nosri</h1></a>'
++'<a href="projects/Reese"><h1>Ruth <br>Reese</h1></a>'
++'<a href="projects/Paulsen"><h1>Sarah <br>Paulsen</h1></a>'
+],
+['<div id=content>'+'<h3>Soulard Art Gallery</h3>'
++'<a href="projects/Pottery"><h1>Anabun <br>Pottery</h1></a>'
++'<a href="projects/Roberts"><h1>Garrett Roberts</h1></a>'
++'<a href="projects/Gomric"><h1>Kathy Gomric</h1></a>'
++'<a href="projects/Bellman"><h1>Patrick L Bellman</h1></a>'
++'<a href="projects/Toenjes"><h1>Pat Toenjes</h1></a>'
++'<a href="projects/Brooks"><h1>Rich Brooks</h1></a>'],
+
 ['<div id=content>'+'<a href="projects/Leicht"><h1>Andy <br>Leicht</h1></a>'],
 
 
-['<div id=content>'+'<a href="projects/Sanders"><h1>Blake<br>Sanders</h1></a>'],
+['<div id=content>'+'<h3>City Museum</h3>'
++'<a href="projects/Sanders"><h1>Blake<br>Sanders</h1></a>'
++'<a href="projects/Wood"><h1>Ken Wood</h1></a>'
++'<a href="projects/Kafalenos"><h1>Paul Kafalenos</h1></a>'
++'<a href="projects/Youn"><h1>Rachel Youn</h1></a>'
++'<a href="projects/Dawson"><h1>Sage Dawson</h1></a>'
+],
 ['<div id=content>'+'<a href="projects/Anschultz"><h1>Brandon<br>Anschultz</h1></a>'],
 ['<div id=content>'+'<a href="projects/Flood"><h1>Bridget McDermott Flood <br> & Michael Flood</h1></a>'],
 ['<div id=content>'+'<a href="projects/Metz"><h1>Cailin<br>Metz</h1></a>'],
 
 
-['<div id=content>'+'<a href="projects/Zavaglia"><h1>Cayce<br>Zavaglia</h1></a>'],
-['<div id=content>'+'<a href="projects/Davidson"><h1>Cecelia M.<br>Davidson</h1></a>'],
+['<div id=content>'+'<h3>3409 Longfellow Blvd</h3>'
++'<a href="projects/Zavaglia"><h1>Cayce<br>Zavaglia</h1></a>'
++'<a href="projects/Sarra"><h1>John<br>Sarra</h1></a>'
+],
+
+['<div id=content>'+'<h3>Metropolitan Artist Lofts</h3>'
++'<a href="projects/Davidson"><h1>Cecelia M.<br>Davidson</h1></a>'
++'<a href="projects/Monde"><h1>Maxine du Monde</h1></a>'
++'<a href="projects/Martinez"><h1>Michael Martinez</h1></a>'
++'<a href="projects/Fischetti"><h1>Sandra Fischetti</h1></a>'
++'<a href="projects/Allison"><h1>Scott Allison</h1></a>'
++'<a href="projects/Sutton"><h1>Tiffany J. Sutton</h1></a>'
+],
 ['<div id=content>'+'<a href="projects/Murphy"><h1>Conor <br>Murphy</h1></a>'],
-['<div id=content>'+'<a href="projects/Smith"><h1>Damia <br>Smith</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Smith"><h1>Damia <br>Smith</h1></a>'], Craft
 
 ['<div id=content>'+'<a href="projects/Johnson"><h1>Damien <br>Johnson</h1></a>'],
-['<div id=content>'+'<a href="projects/Coblitz"><h1>David <br>Coblitz</h1></a>'],
-['<div id=content>'+'<a href="projects/Rosenblith"><h1>Edo <br>Rosenblith</h1></a>'],
-['<div id=content>'+'<a href="projects/Unell"><h1>Elaine <br>Unell</h1></a>'],
-['<div id=content>'+'<a href="projects/Vidal"><h1>Emma <br>Vidal</h1></a>'],
+
+['<div id=content>'+'<h3>T-REX</h3>'
++'<a href="projects/Coblitz"><h1>David <br>Coblitz</h1></a>'
++'<a href="projects/Unell"><h1>Elaine<br> Unell</h1></a>'
+],
+// ['<div id=content>'+'<a href="projects/Rosenblith"><h1>Edo <br>Rosenblith</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Unell"><h1>Elaine <br>Unell</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Vidal"><h1>Emma <br>Vidal</h1></a>'],
 
 ['<div id=content>'+'<a href="projects/Popp"><h1>Erica Popp</h1></p>'],
 ['<div id=content>'+'<a href="projects/Film_Base"><h1>Film Base <br>STL</h1></a>'],
-['<div id=content>'+'<a href="projects/Roberts"><h1>Garrett <br>Roberts</h1></a>'],
-['<div id=content>'+'<a href="projects/AN"><h1>GINJU-AN</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Roberts"><h1>Garrett <br>Roberts</h1></a>'],
+
+['<div id=content>'+'<h3>Artica</h3>'
++'<a href="projects/AN"><h1>GINJU-AN</h1></a>'
++'<a href="projects/Ingraham"><h1>Steve Ingraham</h1></a>'
+],
 ['<div id=content>'+'<a href="projects/Louis"><h1>Gregg <br>Louis</h1></a>'],
 
 ['<div id=content>'+'<a href="projects/Montford"><h1>Hannah <br>Montford</h1></a>'],
 ['<div id=content>'+'<a href="projects/Ingrum"><h1>Ingrum <br>Studio</h1></a>'],
 ['<div id=content>'+'<a href="projects/Francois"><h1>Jacob <br>Francois</h1></a>'],
-['<div id=content>'+'<a href="projects/Stanley"><h1>Jacob <br>Stanley</h1></a>'],
+
+['<div id=content>'+'<h3>3163 S Grand Boulevard</h3>'
++'<a href="projects/Stanley"><h1>Jacob <br>Stanley</h1></a>'
++'<a href="projects/Boileau"><h1>Nanette Boileau</h1></a>'
++'<a href="projects/Lahs-Gonzales"><h1>Olivia Lahs-Gonzales</h1></a>'],
+
 ['<div id=content>'+'<a href="projects/Kapfer"><h1>Jeff<br>Kapfer</h1></a>'],
 
-['<div id=content>'+'<a href="projects/Bayer"><h1>Jessica <br>Bayer</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Bayer"><h1>Jessica <br>Bayer</h1></a>'],
 ['<div id=content>'+'<a href="projects/Chesla"><h1>Joe <br>Chesla</h1></a>'],
-['<div id=content>'+'<a href="projects/Sarra"><h1>John <br>Sarra</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Sarra"><h1>John <br>Sarra</h1></a>'],
 ['<div id=content>'+'<a href="projects/Jones"><h1>Karen <br>Ann <br>Jones</h1></a>'],
 
-['<div id=content>'+'<a href="projects/Gomric"><h1>Kathy <br>Gomric</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Gomric"><h1>Kathy <br>Gomric</h1></a>'],
 ['<div id=content>'+'<a href="projects/Wiskirchen"><h1>Kelsey <br>Viola <br>Wiskirchen</h1></a>'],
-['<div id=content>'+'<a href="projects/Wood"><h1>Ken <br>Wood</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Wood"><h1>Ken <br>Wood</h1></a>'], CITY MUSEUM, Blake Sanders
 ['<div id=content>'+'<a href="projects/Cassidy"><h1>Kristin <br>Cassidy</h1></a>'],
-['<div id=content>'+'<a href="projects/deMatta"><h1>Leah <br>deMatta</h1></a>'],
+// ['<div id=content>'+'<a href="projects/deMatta"><h1>Leah <br>deMatta</h1></a>'], Craft
 
 ['<div id=content>'+'<a href="projects/Lottmann"><h1>LeRoy <br>Lottmann</h1></a>'],
 ['<div id=content>'+'<a href="projects/Daniels"><h1>Lowell <br>Daniels</h1></a>'],
-['<div id=content>'+'<a href="projects/Zografakis"><h1>Maggie <br>Zografakis</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Zografakis"><h1>Maggie <br>Zografakis</h1></a>'],
 ['<div id=content>'+'<a href="projects/Keller"><h1>Margaret <br>Keller</h1></a>'],
 ['<div id=content>'+'<a href="projects/Peng"><h1>Marina <br>Peng</h1></a>'],
 
 ['<div id=content>'+'<a href="projects/Swain"><h1>Mark <br>Swain</h1></a>'],
-['<div id=content>'+'<a href="projects/Maine"><h1>Maxine Joie <br>du Maine</h1></a>'],
-['<div id=content>'+'<a href="projects/Evans"><h1>Melody <br>Evans</h1></a>'],
-['<div id=content>'+'<a href="projects/Martinez"><h1>Michael <br>Martinez</h1></a>'],
-['<div id=content>'+'<a href="projects/Parrett"><h1>Michael <br>Parrett</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Maine"><h1>Maxine Joie <br>du Maine</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Evans"><h1>Melody <br>Evans</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Martinez"><h1>Michael <br>Martinez</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Parrett"><h1>Michael <br>Parrett</h1></a>'],
 
-['<div id=content>'+'<a href="projects/Boileau"><h1>Nanette <br>Boileau</h1></a>'],
-['<div id=content>'+'<a href="projects/Nosri"><h1>Norleen <br>Nosri</h1></a>'],
-['<div id=content>'+'<a href="projects/Gonzales"><h1>Olivia <br>Lahs-Gonzales</h1></a>'],
-['<div id=content>'+'<a href="projects/Toenjes"><h1>Pat <br>Toenjes</h1></a>'],
-['<div id=content>'+'<a href="projects/Bellmann"><h1>Patrick L. <br>Bellmann</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Boileau"><h1>Nanette <br>Boileau</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Nosri"><h1>Norleen <br>Nosri</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Gonzales"><h1>Olivia <br>Lahs-Gonzales</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Toenjes"><h1>Pat <br>Toenjes</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Bellmann"><h1>Patrick L. <br>Bellmann</h1></a>'],
 
-['<div id=content>'+'<a href="projects/Kafalenos"><h1>Paul <br>Kafalenos</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Kafalenos"><h1>Paul <br>Kafalenos</h1></a>'], CITY MUSEUM, Blake Sanders
 ['<div id=content>'+'<a href="projects/Perennial"><h1>Perennial: Community Workshop + <br>Store</h1></a>'],
-['<div id=content>'+'<a href="projects/Youn"><h1>Rachel <br>Youn</h1></a>'],
-['<div id=content>'+'<a href="projects/Brooks"><h1>Rich <br>Brooks</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Youn"><h1>Rachel <br>Youn</h1></a>'], CITY MUSEUM, Blake Sanders
+// ['<div id=content>'+'<a href="projects/Brooks"><h1>Rich <br>Brooks</h1></a>'],
 ['<div id=content>'+'<a href="projects/Michelmann"><h1>Robert <br>Michelmann</h1></a>'],
 
-['<div id=content>'+'<a href="projects/Heagler"><h1>Robin <br>Lewis-Heagler</h1></a>'],
-['<div id=content>'+'<a href="projects/Kolker"><h1>Ruth <br>Kolker</h1></a>'],
-['<div id=content>'+'<a href="projects/Reese"><h1>Ruth <br>Reese</h1></a>'],
-['<div id=content>'+'<a href="projects/Dawson"><h1>Sage <br>Dawson</h1></a>'],
-['<div id=content>'+'<a href="projects/Fischetti"><h1>Sandra <br>Fischetti</h1></a>'],
+['<div id=content>'+'<a href="projects/Lewis-Heagler"><h1>Robin <br>Lewis-Heagler</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Kolker"><h1>Ruth <br>Kolker</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Reese"><h1>Ruth <br>Reese</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Dawson"><h1>Sage <br>Dawson</h1></a>'], CITY MUSEUM, Blake Sanders
+// ['<div id=content>'+'<a href="projects/Fischetti"><h1>Sandra <br>Fischetti</h1></a>'],
 
-['<div id=content>'+'<a href="projects/Bernhardt"><h1>Sarah <br>Bernhardt</h1></a>'],
-['<div id=content>'+'<a href="projects/Paulsen"><h1>Sarah <br>Paulsen</h1></a>'],
-['<div id=content>'+'<a href="projects/Allison"><h1>Scott <br>Allison</h1></a>'],
-['<div id=content>'+'<a href="projects/Soulard"><h1>Soulard <br>Art <br>Gallery</h1></a>'],
-['<div id=content>'+'<a href="projects/Ingraham"><h1>Steve <br>Ingraham</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Bernhardt"><h1>Sarah <br>Bernhardt</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Paulsen"><h1>Sarah <br>Paulsen</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Allison"><h1>Scott <br>Allison</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Soulard"><h1>Soulard <br>Art <br>Gallery</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Ingraham"><h1>Steve <br>Ingraham</h1></a>'],
 
 ['<div id=content>'+'<a href="projects/Bernhardt"><h1>The <br>Collab</h1></a>'],
-['<div id=content>'+'<a href="projects/Paulsen"><h1>Tiffany J. <br>Sutton</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Paulsen"><h1>Tiffany J. <br>Sutton</h1></a>'],
 ['<div id=content>'+'<a href="projects/Allison"><h1>WORK/PLAY</h1></a>'],
 ['<div id=content>'+'<a href="projects/Soulard"><h1>Wyndi <br>Antoinette <br>DeSouz</h1></a>'],
 
@@ -264,7 +321,7 @@ var locations_saturday= [
 ['Krista Valdez', 38.588424, -90.346928],
 ['Kevin Heard', 38.655957, -90.307439],
 ['Knox Gallery of Fine Art', 38.620574, -90.321420],
-['LeRoy Lottmann', 38.608107, -90.278450],
+['LeRoy Lottmann', 38.608107, -90.278481],
 
 // ['Marcia Pandolfi', 38.600569, -90.245485],
 ['Mark Witzling', 38.710706, -90.461845],
@@ -447,8 +504,8 @@ var locations_saturday= [
 
 
              var map = new google.maps.Map(document.getElementById('mapCanvas'), {
-               zoom: 11,
-               center: new google.maps.LatLng(38.605, -90.275),
+               zoom: 12,
+               center: new google.maps.LatLng(38.635, -90.285),
                styles: styles,
                zoomControl: true,
             //    zoomControlOptions: {
