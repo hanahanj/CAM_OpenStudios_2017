@@ -138,6 +138,10 @@ img {
      
 }
 
+.slider img{
+  height:500px;
+}
+
 .images{
 
    max-width: 720px;
@@ -700,7 +704,7 @@ padding-top:25px;
 .document hr {
   border: 0;
   border-top: 1px solid #000;
-  margin: 84px 0;
+  margin:70px;
 }
 
 /* PROJECTS
@@ -743,6 +747,8 @@ p{
   width:50%;
   margin:25px;
 }
+
+
 /*
 .fixed ul{
          
@@ -1007,12 +1013,12 @@ small {
   nav {
     display: block;
     height: auto;
-    padding: 12px 30px;
+    padding: 12px 0px;
   }
 
   nav li {
-    display: block;
-    width: 100%;
+    display: inline-block;
+    width: 15%;
     padding: 4px 0;
     font-size: 14px;
   }
@@ -1031,30 +1037,25 @@ small {
     margin: 8px auto;
   }
 
-  .library-row .year {
-    display: none;
+  .document hr {
+  border: 0;
+  border-top: 1px solid #000;
+  margin:50px;
+}
+
+  .document h4 {
+    text-indent:0;
   }
 
-  .large,
-  .text {
-    font-size: 19px;
-    line-height: 1.2;
+  .document h3 {
+    text-indent:0;
   }
 
-  #meta-bar .back-to-top {
-    text-align: center;
-    width: 100%;
-    padding: 17px 0;
-  }
+  .slider img{
+  height:250px;
+}
 
-  #meta-bar .inside {
-    display: none;
-  }
 
-  ul.calendar .title, .document ul.calendar li.calendar-row {
-    text-indent: 0px;
-    text-indent: 0em;
-    padding-left: 0em;
   }
 
   
