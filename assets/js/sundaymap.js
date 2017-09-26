@@ -139,8 +139,8 @@ var locations_sunday = [
 // SUNDAY CONTENT
 var content_sunday = [
 ['<div id=content>'+'<h3>The Millitzer Studio & Gallery</h3>'
-+'<a href="projects/cox"><h1>Adrian<br>Cox</h1></a>'
-+'<a href="projects/Vidal"><h1>Emma<br> Vidal</h1></a>'
++'<a href="projects/Cox"><h1>Adrian<br>Cox</h1></a>'
++'<a href="projects/Vidal"><h1>Emma<br>Vidal</h1></a>'
 ],
 
 
@@ -163,21 +163,21 @@ var content_sunday = [
 ],
 ['<div id=content>'+'<h3>Soulard Art Gallery</h3>'
 +'<a href="projects/Pottery"><h1>Anabun <br>Pottery</h1></a>'
-+'<a href="projects/Roberts"><h1>Garrett Roberts</h1></a>'
-+'<a href="projects/Gomric"><h1>Kathy Gomric</h1></a>'
-+'<a href="projects/Bellman"><h1>Patrick L Bellman</h1></a>'
-+'<a href="projects/Toenjes"><h1>Pat Toenjes</h1></a>'
-+'<a href="projects/Brooks"><h1>Rich Brooks</h1></a>'],
++'<a href="projects/Roberts"><h1>Garrett<br> Roberts</h1></a>'
++'<a href="projects/Gomric"><h1>Kathy <br>Gomric</h1></a>'
++'<a href="projects/Bellman"><h1>Patrick L <br>Bellman</h1></a>'
++'<a href="projects/Toenjes"><h1>Pat <br>Toenjes</h1></a>'
++'<a href="projects/Brooks"><h1>Rich <br>Brooks</h1></a>'],
 
 ['<div id=content>'+'<a href="projects/Leicht"><h1>Andy <br>Leicht</h1></a>'],
 
 
 ['<div id=content>'+'<h3>City Museum</h3>'
 +'<a href="projects/Sanders"><h1>Blake<br>Sanders</h1></a>'
-+'<a href="projects/Wood"><h1>Ken Wood</h1></a>'
-+'<a href="projects/Kafalenos"><h1>Paul Kafalenos</h1></a>'
-+'<a href="projects/Youn"><h1>Rachel Youn</h1></a>'
-+'<a href="projects/Dawson"><h1>Sage Dawson</h1></a>'
++'<a href="projects/Wood"><h1>Ken <br>Wood</h1></a>'
++'<a href="projects/Kafalenos"><h1>Paul <br>Kafalenos</h1></a>'
++'<a href="projects/Youn"><h1>Rachel <br>Youn</h1></a>'
++'<a href="projects/Dawson"><h1>Sage<br> Dawson</h1></a>'
 ],
 ['<div id=content>'+'<a href="projects/Anschultz"><h1>Brandon<br>Anschultz</h1></a>'],
 ['<div id=content>'+'<a href="projects/Flood"><h1>Bridget McDermott Flood <br> & Michael Flood</h1></a>'],
@@ -200,7 +200,7 @@ var content_sunday = [
 ['<div id=content>'+'<a href="projects/Murphy"><h1>Conor <br>Murphy</h1></a>'],
 // ['<div id=content>'+'<a href="projects/Smith"><h1>Damia <br>Smith</h1></a>'], Craft
 
-['<div id=content>'+'<a href="projects/Johnson"><h1>Damien <br>Johnson</h1></a>'],
+['<div id=content>'+'<a href="projects/Johnson_Damien"><h1>Damien <br>Johnson</h1></a>'],
 
 ['<div id=content>'+'<h3>T-REX</h3>'
 +'<a href="projects/Coblitz"><h1>David <br>Coblitz</h1></a>'
@@ -211,17 +211,17 @@ var content_sunday = [
 // ['<div id=content>'+'<a href="projects/Vidal"><h1>Emma <br>Vidal</h1></a>'],
 
 ['<div id=content>'+'<a href="projects/Popp"><h1>Erica Popp</h1></p>'],
-['<div id=content>'+'<a href="projects/Film_Base"><h1>Film Base <br>STL</h1></a>'],
+['<div id=content>'+'<a href="projects/FilmBaseSTL"><h1>Film Base<br>STL</h1></a>'],
 // ['<div id=content>'+'<a href="projects/Roberts"><h1>Garrett <br>Roberts</h1></a>'],
 
 ['<div id=content>'+'<h3>Artica</h3>'
-+'<a href="projects/AN"><h1>GINJU-AN</h1></a>'
++'<a href="projects/GINJU-AN"><h1>GINJU-AN</h1></a>'
 +'<a href="projects/Ingraham"><h1>Steve Ingraham</h1></a>'
 ],
 ['<div id=content>'+'<a href="projects/Louis"><h1>Gregg <br>Louis</h1></a>'],
 
 ['<div id=content>'+'<a href="projects/Montford"><h1>Hannah <br>Montford</h1></a>'],
-['<div id=content>'+'<a href="projects/Ingrum"><h1>Ingrum <br>Studio</h1></a>'],
+['<div id=content>'+'<a href="projects/IngrumStudios"><h1>Ingrum <br>Studio</h1></a>'],
 ['<div id=content>'+'<a href="projects/Francois"><h1>Jacob <br>Francois</h1></a>'],
 
 ['<div id=content>'+'<h3>3163 S Grand Boulevard</h3>'
@@ -278,10 +278,10 @@ var content_sunday = [
 // ['<div id=content>'+'<a href="projects/Soulard"><h1>Soulard <br>Art <br>Gallery</h1></a>'],
 // ['<div id=content>'+'<a href="projects/Ingraham"><h1>Steve <br>Ingraham</h1></a>'],
 
-['<div id=content>'+'<a href="projects/Bernhardt"><h1>The <br>Collab</h1></a>'],
+['<div id=content>'+'<a href="projects/Collab"><h1>The <br>Collab</h1></a>'],
 // ['<div id=content>'+'<a href="projects/Paulsen"><h1>Tiffany J. <br>Sutton</h1></a>'],
 ['<div id=content>'+'<a href="projects/Allison"><h1>WORK/PLAY</h1></a>'],
-['<div id=content>'+'<a href="projects/Soulard"><h1>Wyndi <br>Antoinette <br>DeSouz</h1></a>'],
+['<div id=content>'+'<a href="projects/DeSouz"><h1>Wyndi <br>Antoinette <br>DeSouz</h1></a>'],
 
 
 ]
@@ -371,7 +371,7 @@ var locations_saturday= [
 // ['Washington University Graduate Art Studios', 38.658284, -90.309255],
 // ['Webster University', 38.588424, -90.346928],
 
-// ['Saint Louis Community College Forest Park', 38.627654, -90.274971],
+['Saint Louis Community College Forest Park', 38.627654, -90.274971],
 
 
 ];
@@ -391,17 +391,17 @@ var locations_saturday= [
 
              ['<div id=content>'+'<a href="projects/Nadler"><h1>Arny Nadler</h1></p>'],
              ['<div id=content>'+'<h3>Jules Unique Studios</h3>'
-             +'<a href="projects/doll"><h1>Art Doll</h1>'
+             +'<a href="projects/ArtDoll"><h1>Art Doll</h1>'
              +'<a href="projects/Coulter"><h1>Nicholas Coulter Photography</h1>'
              +'<a href="projects/Gutierrez"><h1>Julius Gutierrez</h1>'],
-             ['<div id=content>'+'<a href="projects/First"><h1>Artists First</h1></p>'],
+             ['<div id=content>'+'<a href="projects/ArtistsFirst"><h1>Artists First</h1></p>'],
              ['<div id=content>'+'<h3>Pierce Arrow Building</h3>'
              +'<a href="projects/Holtz"><h1>Barbara Holtz</h1>'
              +'<a href="projects/Dawson"><h1>Carla Dawson</h1>'
              +'<a href="projects/Botnick"><h1>Ken Botnick</h1>'
              +'<a href="projects/Lewis"><h1>Marlene Lewis</h1>'
              +'<a href="projects/Exarhu"><h1>Nancy Exarhu</h1>'
-             +'<a href="projects/Johnson"><h1>Sheldon Johnson</h1>'],
+             +'<a href="projects/Johnson_Sheldon"><h1>Sheldon Johnson</h1>'],
 
              ['<div id=content>'+'<h3>5736 West Park Avenue</h3>'
              +'<a href="projects/DePauli"><h1>Brian DePauli</h1></p>'
@@ -426,7 +426,7 @@ var locations_saturday= [
              ['<div id=content>'+'<a href="projects/Silvers"><h1>Dexter Silvers</h1></p>'],
 
              // ['<div id=content>'+'<a href="projects/Lynn"><h1>Enola Lynn</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Fine_Line"><h1>Fine Line Studios, RHD</h1></p>'],
+             ['<div id=content>'+'<a href="projects/FineLineStudios"><h1>Fine Line Studios, RHD</h1></p>'],
 
              ['<div id=content>'+'<h3>The Lewis Center</h3>'
              +'<a href="projects/Brady"><h1>Gena Brady</h1>'
@@ -435,7 +435,7 @@ var locations_saturday= [
              // ['<div id=content>'+'<a href="projects/Esson"><h1>Genevieve Esson</h1></p>'],
 
              ['<div id=content>'+'<a href="projects/Grafos"><h1>Gina Grafos Print Showcase</h1></p>'],
-             ['<div id=content>'+'<h3>The Lewis Center</h3>'+'<a href="projects/Everett"><h1>Jen Everett</h1></p>'+'<a href="projects/mccoy"><h1>Kevin McCoy (WORK/PLAY)</h1>'+'<a href="projects/wustl"><h1>Washington University Graduates</h1>'],
+             ['<div id=content>'+'<h3>The Lewis Center</h3>'+'<a href="projects/Everett"><h1>Jen Everett</h1></p>'+'<a href="projects/McCoy_Kevin"><h1>Kevin McCoy (WORK/PLAY)</h1>'+'<a href="projects/wustl"><h1>Washington University Graduates</h1>'],
              // ['<div id=content>'+'<a href="projects/Gutierrez"><h1>Julius Gutierrez</h1></p>'],
              ['<div id=content>'+'<a href="projects/Cissell"><h1>Justin Cissell</h1></p>'],
              ['<div id=content>'+'<a href="projects/Rye"><h1>Kay Rye Leather Artisan</h1></p>'],
@@ -458,7 +458,7 @@ var locations_saturday= [
              // ['<div id=content>'+'<a href="projects/Pandolfi"><h1>Marcia Pandolfi</h1></p>'],
              ['<div id=content>'+'<a href="projects/Witzling"><h1>Mark Witzling</h1></p>'],
              // ['<div id=content>'+'<a href="projects/Lewis"><h1>Marlene Lewis</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Garage"><h1>Garage Studios</h1></p>'],
+             ['<div id=content>'+'<a href="projects/GarageStudios"><h1>Garage Studios</h1></p>'],
              ['<div id=content>'+'<a href="projects/Goebel"><h1>Martin Goebel</h1></p>'],
 
              // ['<div id=content>'+'<a href="projects/Ryan"><h1>Mary Lou Ryan</h1></p>'],
@@ -479,7 +479,7 @@ var locations_saturday= [
              // ['<div id=content>'+'<a href="projects/Clark"><h1>Patricia Clark</h1></p>'],
              ['<div id=content>'+'<a href="projects/Phi"><h1>Phi Academy of Art</h1></p>'],
              ['<div id=content>'+'<h3>3840 Washington Blvd</h3>'+'<a href="projects/Page"><h1>Preston Page Photography</h1>'+'<a href="projects/Marchewa"><h1>Sandra Marchewa</h1></p>'],
-             ['<div id=content>'+'<a href="projects/Stitchers"><h1>Saint Louis Story Stitchers Artists Collective</h1></p>'],
+             ['<div id=content>'+'<a href="projects/StoryStitchers"><h1>Saint Louis Story Stitchers Artists Collective</h1></p>'],
              ['<div id=content>'+'<a href="projects/Fentress"><h1>Sam Fentress</h1></p>'],
 
 
@@ -496,14 +496,14 @@ var locations_saturday= [
              // ['<div id=content>'+'<a href="projects/Suga"><h1>Yuko Suga</h1></p>'],
 
              ['<div id=content>'+'<h3>University of Missouri-St Loui</h3>'
-             +'<a href="projects/umsl_fac"><h1>Faculty'
-             +'<a href="projects/umsl_stu"><h1>Students'],
+             +'<a href="projects/umsl_fac"><h1>Faculty</h1>'
+             +'<a href="projects/umsl_stu"><h1>Students</h1>'],
              // ['<div id=content>'+'<a href="projects/umsl_stu"><h1>University of Missouri-St Louis (student studios)</h1></p>'],
              ['<div id=content>'+'<a href="projects/Davis"><h1>Vaughn Davis</h1></p>'],
              // ['<div id=content>'+'<a href="projects/wustl"><h1>Washington University Graduate Art Studios</h1></p>'],
              // ['<div id=content>'+'<a href="projects/Webster"><h1>Webster University</h1></p>'],
 
-             // ['<div id=content>'+'<a href="projects/sl_comm"><h1>Saint Louis Community College Forest Park</h1></p>'],
+             ['<div id=content>'+'<a href="projects/stlcc"><h1>Saint Louis Community College Forest Park</h1></p>'],
 
              ]
 
