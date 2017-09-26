@@ -41,6 +41,8 @@ function initMap() {
 
 // SUNDAY locations
 var locations_sunday = [
+['Mariana Parisca', 38.600638, -90.241044],
+['Martin Lang', 38.590642, -90.218778],
 ['The Millitzer Studio & Gallery', 38.603474, -90.232971],
 
 ['Intersect Arts Center', 38.589101, -90.227202],
@@ -75,7 +77,7 @@ var locations_sunday = [
 ['Artica', 38.631112, -90.199019],
 ['Gregg Louis', 38.600391, -90.222389],
 
-['Hannah Montford', 38.609411, -90.224579],
+['Viola Textile Studio', 38.609411, -90.224579],
 
 ['Jacob Francois', 38.625305,-90.214607199999991],
 ['3163 S Grand Boulevard', 38.600775, -90.242878],
@@ -87,15 +89,15 @@ var locations_sunday = [
 ['Karen Ann Jones', 38.634701, -90.215316],
 
 // ['Kathy Gomric', 38.607793, -90.209319],
-['Kelsey Viola Wiskirchen', 38.609411, -90.224579],
+// ['Kelsey Viola Wiskirchen', 38.609411, -90.224579],
 // ['Ken Wood', 38.633575, -90.200425], CITY MUSEUM, Blake Sanders
-['Kristin Cassidy', 38.593804, -90.227849],
+['The Luminary', 38.593804, -90.227849],
 // ['Leah deMatta', 38.638540, -90.232284],
 
 ['LeRoy Lottmann', 38.608107, -90.278481],
 ['Lowell Daniels', 38.6282846,-90.19291249999998],
 // ['Maggie Zografakis', 38.588886, -90.227545],
-['Margaret Keller', 38.593804, -90.227849],
+['Margaret Keller', 38.607142, -90.206864],
 ['Marina Peng', 38.585768, -90.225642],
 
 ['Mark Swain', 38.570884, -90.239701],
@@ -130,7 +132,7 @@ var locations_sunday = [
 
 ['The Collab', 38.548527, -90.257013],
 // ['Tiffany J. Sutton', 38.638298, -90.231810],
-['WORK/PLAY', 38.593802, -90.227840],
+// ['WORK/PLAY', 38.593802, -90.227840],
 ['Wyndi Antoinette DeSouza', 38.606312],
 ];
 
@@ -138,6 +140,8 @@ var locations_sunday = [
 
 // SUNDAY CONTENT
 var content_sunday = [
+['<div id=content>'+'<a href="projects/Parisca"><h1>Mariana <br>Parisca</h1></a>'],
+['<div id=content>'+'<a href="projects/Lang"><h1>Martin <br>Lang</h1></a>'],
 ['<div id=content>'+'<h3>The Millitzer Studio & Gallery</h3>'
 +'<a href="projects/Cox"><h1>Adrian<br>Cox</h1></a>'
 +'<a href="projects/Vidal"><h1>Emma<br>Vidal</h1></a>'
@@ -162,10 +166,10 @@ var content_sunday = [
 +'<a href="projects/Paulsen"><h1>Sarah <br>Paulsen</h1></a>'
 ],
 ['<div id=content>'+'<h3>Soulard Art Gallery</h3>'
-+'<a href="projects/Pottery"><h1>Anabun <br>Pottery</h1></a>'
++'<a href="projects/Anabun"><h1>Anabun <br>Pottery</h1></a>'
 +'<a href="projects/Roberts"><h1>Garrett<br> Roberts</h1></a>'
 +'<a href="projects/Gomric"><h1>Kathy <br>Gomric</h1></a>'
-+'<a href="projects/Bellman"><h1>Patrick L <br>Bellman</h1></a>'
++'<a href="projects/Bellmann"><h1>Patrick L <br>Bellman</h1></a>'
 +'<a href="projects/Toenjes"><h1>Pat <br>Toenjes</h1></a>'
 +'<a href="projects/Brooks"><h1>Rich <br>Brooks</h1></a>'],
 
@@ -177,7 +181,7 @@ var content_sunday = [
 +'<a href="projects/Wood"><h1>Ken <br>Wood</h1></a>'
 +'<a href="projects/Kafalenos"><h1>Paul <br>Kafalenos</h1></a>'
 +'<a href="projects/Youn"><h1>Rachel <br>Youn</h1></a>'
-+'<a href="projects/Dawson"><h1>Sage<br> Dawson</h1></a>'
++'<a href="projects/Dawson_Sage"><h1>Sage<br> Dawson</h1></a>'
 ],
 ['<div id=content>'+'<a href="projects/Anschultz"><h1>Brandon<br>Anschultz</h1></a>'],
 ['<div id=content>'+'<a href="projects/Flood"><h1>Bridget McDermott Flood <br> & Michael Flood</h1></a>'],
@@ -191,7 +195,7 @@ var content_sunday = [
 
 ['<div id=content>'+'<h3>Metropolitan Artist Lofts</h3>'
 +'<a href="projects/Davidson"><h1>Cecelia M.<br>Davidson</h1></a>'
-+'<a href="projects/Monde"><h1>Maxine du Monde</h1></a>'
++'<a href="projects/Maine"><h1>Maxine du Maine</h1></a>'
 +'<a href="projects/Martinez"><h1>Michael Martinez</h1></a>'
 +'<a href="projects/Fischetti"><h1>Sandra Fischetti</h1></a>'
 +'<a href="projects/Allison"><h1>Scott Allison</h1></a>'
@@ -220,7 +224,10 @@ var content_sunday = [
 ],
 ['<div id=content>'+'<a href="projects/Louis"><h1>Gregg <br>Louis</h1></a>'],
 
-['<div id=content>'+'<a href="projects/Montford"><h1>Hannah <br>Montford</h1></a>'],
+['<div id=content>'+'<h3>Viola Textile Studio</h3>'
++'<a href="projects/Montford"><h1>Hannah <br>Montford</h1></a>'
++'<a href="projects/Wiskirchen"><h1>Kelsey <br>Viola <br>Wiskirchen</h1></a>'
+],
 
 ['<div id=content>'+'<a href="projects/Francois"><h1>Jacob <br>Francois</h1></a>'],
 
@@ -237,9 +244,12 @@ var content_sunday = [
 ['<div id=content>'+'<a href="projects/Jones"><h1>Karen <br>Ann <br>Jones</h1></a>'],
 
 // ['<div id=content>'+'<a href="projects/Gomric"><h1>Kathy <br>Gomric</h1></a>'],
-['<div id=content>'+'<a href="projects/Wiskirchen"><h1>Kelsey <br>Viola <br>Wiskirchen</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Wiskirchen"><h1>Kelsey <br>Viola <br>Wiskirchen</h1></a>'],
 // ['<div id=content>'+'<a href="projects/Wood"><h1>Ken <br>Wood</h1></a>'], CITY MUSEUM, Blake Sanders
-['<div id=content>'+'<a href="projects/Cassidy"><h1>Kristin <br>Cassidy</h1></a>'],
+['<div id=content>'+'<h3>The Luminary</h3>'
++'<a href="projects/Cassidy"><h1>Kristin <br>Cassidy</h1></a>'
++'<a href="projects/McCoy_Danielle"><h1>Danielle McCoy (WORK/PLAY)</h1></a>'
+],
 // ['<div id=content>'+'<a href="projects/deMatta"><h1>Leah <br>deMatta</h1></a>'], Craft
 
 ['<div id=content>'+'<a href="projects/Lottmann"><h1>LeRoy <br>Lottmann</h1></a>'],
@@ -280,7 +290,7 @@ var content_sunday = [
 
 ['<div id=content>'+'<a href="projects/Collab"><h1>The <br>Collab</h1></a>'],
 // ['<div id=content>'+'<a href="projects/Paulsen"><h1>Tiffany J. <br>Sutton</h1></a>'],
-['<div id=content>'+'<a href="projects/Allison"><h1>WORK/PLAY</h1></a>'],
+// ['<div id=content>'+'<a href="projects/Allison"><h1>WORK/PLAY</h1></a>'],
 ['<div id=content>'+'<a href="projects/DeSouz"><h1>Wyndi <br>Antoinette <br>DeSouz</h1></a>'],
 
 
