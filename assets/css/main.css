@@ -587,7 +587,7 @@ figure.large {
 
 .document {
  
-  margin: 4em 1em;
+  margin: 4em 2em;
   
 }
 
@@ -599,7 +599,7 @@ figure.large {
   /*font-weight: bold;*/
     margin:0;
   clear:left;
-  text-indent: 50px;
+  
 
 }
 
@@ -611,15 +611,15 @@ figure.large {
 /*  text-decoration: underline;*/
   font-size: 2em;
   font-weight: bold;
-  text-indent: 50px;
+  
   margin-top: 0;
     margin-bottom: 0;
 }
 
 .document h3{
   font-size: 1em;
-  text-indent: 50px;
-  font-weight:bold;
+
+  
     margin-top: 0;
     margin-bottom: 0;
     
@@ -640,7 +640,7 @@ figure.large {
   
   margin-top: 0;
   margin-bottom: 0;
-  text-indent:25px;
+  
 }
 .document .about p{
   padding-top: 0;
@@ -649,14 +649,14 @@ figure.large {
 .document p{
   clear:left;
 width:50%;
-margin-top: 25px;
+
 padding-top:25px;
 }
 
 
 
 .document ul{
-  margin-left: 50px;
+/*  margin-left: 50px;*/
   margin-bottom:50px;
 }
 
@@ -1007,7 +1007,7 @@ small {
 @media screen and (max-width: 540px) {
 
   body {
-    font-size: 14px;
+    font-size: 11px;
   }
 
   nav {
@@ -1051,6 +1051,22 @@ small {
     text-indent:0;
   }
 
+ .document h2 {
+    text-indent:0;
+  }
+
+  .document h1{
+    margin-left: 0;
+  }
+
+  .document p{
+    width:85%;
+    margin:0;
+  }
+
+  .document ul{
+    margin-left:0;
+  }
   .slider img{
   height:250px;
 }
